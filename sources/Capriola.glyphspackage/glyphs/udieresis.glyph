@@ -1,0 +1,45 @@
+{
+glyphname = udieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (144,0);
+ref = dieresiscomb;
+}
+);
+width = 1372;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (144,0);
+ref = dieresiscomb;
+}
+);
+width = 1372;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (144,0);
+ref = dieresiscomb;
+}
+);
+width = 1372;
+}
+);
+unicode = 252;
+}

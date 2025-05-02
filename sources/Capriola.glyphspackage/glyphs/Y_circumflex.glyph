@@ -1,0 +1,63 @@
+{
+glyphname = Ycircumflex;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (695,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (243,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1355;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (695,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (247,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1372;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (695,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (247,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1372;
+}
+);
+unicode = 374;
+}

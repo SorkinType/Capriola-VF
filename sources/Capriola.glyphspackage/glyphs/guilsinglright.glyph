@@ -1,0 +1,40 @@
+{
+color = 4;
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (834,1148);
+ref = guilsinglleft;
+}
+);
+width = 855;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (834,1148);
+ref = guilsinglleft;
+}
+);
+width = 855;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (834,1148);
+ref = guilsinglleft;
+}
+);
+width = 855;
+}
+);
+unicode = 8250;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = bdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = b;
+},
+{
+pos = (555,-405);
+ref = dotaccentcomb.case;
+}
+);
+width = 1376;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = b;
+},
+{
+pos = (555,-405);
+ref = dotaccentcomb.case;
+}
+);
+width = 1376;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = b;
+},
+{
+pos = (555,-405);
+ref = dotaccentcomb.case;
+}
+);
+width = 1376;
+}
+);
+unicode = 7683;
+}

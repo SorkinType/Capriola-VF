@@ -1,0 +1,69 @@
+{
+glyphname = adieresis;
+layers = (
+{
+guides = (
+{
+pos = (0,1622);
+},
+{
+pos = (0,1320);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = dieresiscomb;
+}
+);
+width = 1195;
+},
+{
+guides = (
+{
+pos = (0,1622);
+},
+{
+pos = (0,1320);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = dieresiscomb;
+}
+);
+width = 1195;
+},
+{
+guides = (
+{
+pos = (0,1622);
+},
+{
+pos = (0,1320);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = dieresiscomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 228;
+}

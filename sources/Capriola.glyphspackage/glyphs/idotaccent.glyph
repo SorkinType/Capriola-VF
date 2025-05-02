@@ -1,0 +1,44 @@
+{
+glyphname = idotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (85,0);
+ref = dotaccentcomb;
+}
+);
+width = 683;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (85,0);
+ref = dotaccentcomb;
+}
+);
+width = 683;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (85,0);
+ref = dotaccentcomb;
+}
+);
+width = 683;
+}
+);
+}

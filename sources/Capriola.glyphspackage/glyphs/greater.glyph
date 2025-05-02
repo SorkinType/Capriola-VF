@@ -1,0 +1,40 @@
+{
+color = 4;
+glyphname = greater;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1364,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1364;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (1364,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1364;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (1364,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1364;
+}
+);
+unicode = 62;
+}

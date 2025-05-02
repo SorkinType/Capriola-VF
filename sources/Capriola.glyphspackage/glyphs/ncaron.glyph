@@ -1,0 +1,60 @@
+{
+glyphname = ncaron;
+layers = (
+{
+guides = (
+{
+pos = (0,1697);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (250,0);
+ref = caroncomb;
+}
+);
+width = 1364;
+},
+{
+guides = (
+{
+pos = (0,1697);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (250,0);
+ref = caroncomb;
+}
+);
+width = 1364;
+},
+{
+guides = (
+{
+pos = (0,1697);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (250,0);
+ref = caroncomb;
+}
+);
+width = 1364;
+}
+);
+unicode = 328;
+}

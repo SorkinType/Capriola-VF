@@ -1,0 +1,45 @@
+{
+glyphname = ij;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (683,0);
+ref = j;
+}
+);
+width = 1366;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (683,0);
+ref = j;
+}
+);
+width = 1366;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (683,0);
+ref = j;
+}
+);
+width = 1366;
+}
+);
+unicode = 307;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = m001;
+width = 1363;
+},
+{
+layerId = m002;
+width = 1363;
+},
+{
+layerId = m003;
+width = 1363;
+}
+);
+metricWidth = "=zero";
+unicode = 8199;
+}

@@ -1,0 +1,58 @@
+{
+color = 4;
+glyphname = quoteright;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (97,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (511,2852);
+ref = quoteleft;
+}
+);
+width = 511;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (97,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (511,2852);
+ref = quoteleft;
+}
+);
+width = 511;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (97,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (511,2852);
+ref = quoteleft;
+}
+);
+width = 511;
+}
+);
+unicode = 8217;
+}

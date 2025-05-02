@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ecircumflextilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (304,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1354;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (312,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1362;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (288,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1338;
+}
+);
+unicode = 7876;
+}

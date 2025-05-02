@@ -1,0 +1,63 @@
+{
+glyphname = Otilde;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (471,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (282,0);
+ref = tildecomb.case;
+}
+);
+width = 1709;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (471,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (282,0);
+ref = tildecomb.case;
+}
+);
+width = 1709;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (471,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (272,0);
+ref = tildecomb.case;
+}
+);
+width = 1689;
+}
+);
+unicode = 213;
+}

@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ohornhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (547,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (547,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (547,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1709;
+}
+);
+unicode = 7902;
+}

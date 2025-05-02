@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Uhornhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+}
+);
+unicode = 7916;
+}

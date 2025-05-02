@@ -1,0 +1,67 @@
+{
+color = 4;
+glyphname = semicolon;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (77,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-9,785);
+ref = period;
+},
+{
+pos = (3,0);
+ref = comma;
+}
+);
+width = 513;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (77,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (-9,785);
+ref = period;
+},
+{
+pos = (3,0);
+ref = comma;
+}
+);
+width = 513;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (77,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (-9,785);
+ref = period;
+},
+{
+pos = (3,0);
+ref = comma;
+}
+);
+width = 513;
+}
+);
+unicode = 59;
+}

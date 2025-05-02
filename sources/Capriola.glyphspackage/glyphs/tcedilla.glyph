@@ -1,0 +1,45 @@
+{
+glyphname = tcedilla;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (161,0);
+ref = commaaccent;
+}
+);
+width = 851;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (161,0);
+ref = commaaccent;
+}
+);
+width = 851;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (161,0);
+ref = commaaccent;
+}
+);
+width = 851;
+}
+);
+unicode = 355;
+}

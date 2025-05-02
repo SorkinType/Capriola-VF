@@ -1,0 +1,40 @@
+{
+color = 4;
+glyphname = backslash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (844,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 853;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (844,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 853;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (844,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 853;
+}
+);
+unicode = 92;
+}

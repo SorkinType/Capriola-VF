@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Uhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (457,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1529;
+}
+);
+unicode = 7910;
+}

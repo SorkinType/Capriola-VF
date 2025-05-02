@@ -1,0 +1,49 @@
+{
+color = 4;
+glyphname = colon;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-8,0);
+ref = period;
+},
+{
+pos = (-8,785);
+ref = period;
+}
+);
+width = 511;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-8,0);
+ref = period;
+},
+{
+pos = (-8,785);
+ref = period;
+}
+);
+width = 511;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-8,0);
+ref = period;
+},
+{
+pos = (-8,785);
+ref = period;
+}
+);
+width = 511;
+}
+);
+unicode = 58;
+}

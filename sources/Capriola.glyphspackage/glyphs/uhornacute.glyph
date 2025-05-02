@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = uhornacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (327,0);
+ref = acutecomb;
+}
+);
+width = 1372;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (327,0);
+ref = acutecomb;
+}
+);
+width = 1372;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (327,0);
+ref = acutecomb;
+}
+);
+width = 1372;
+}
+);
+unicode = 7913;
+}

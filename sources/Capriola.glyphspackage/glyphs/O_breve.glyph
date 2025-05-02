@@ -1,0 +1,45 @@
+{
+glyphname = Obreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (515,0);
+ref = brevecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (515,0);
+ref = brevecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (505,0);
+ref = brevecomb.case;
+}
+);
+width = 1689;
+}
+);
+unicode = 334;
+}

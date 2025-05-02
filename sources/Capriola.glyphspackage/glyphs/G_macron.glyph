@@ -1,0 +1,46 @@
+{
+color = 3;
+glyphname = Gmacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (600,0);
+ref = macroncomb.case;
+}
+);
+width = 1533;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (600,0);
+ref = macroncomb.case;
+}
+);
+width = 1533;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (600,0);
+ref = macroncomb.case;
+}
+);
+width = 1533;
+}
+);
+unicode = 7712;
+}

@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ohookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (547,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (547,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (537,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1689;
+}
+);
+unicode = 7886;
+}

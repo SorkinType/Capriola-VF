@@ -1,0 +1,63 @@
+{
+glyphname = Itilde;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (-37,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-231,0);
+ref = tildecomb.case;
+}
+);
+width = 683;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (-37,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-231,0);
+ref = tildecomb.case;
+}
+);
+width = 683;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (-37,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-231,0);
+ref = tildecomb.case;
+}
+);
+width = 703;
+}
+);
+unicode = 296;
+}

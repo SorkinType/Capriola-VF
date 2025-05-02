@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = edotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (396,0);
+ref = dotbelowcomb;
+}
+);
+width = 1195;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (396,0);
+ref = dotbelowcomb;
+}
+);
+width = 1195;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (396,0);
+ref = dotbelowcomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 7865;
+}

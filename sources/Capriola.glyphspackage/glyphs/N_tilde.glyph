@@ -1,0 +1,63 @@
+{
+glyphname = Ntilde;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (489,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (263,0);
+ref = tildecomb.case;
+}
+);
+width = 1664;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (489,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (278,0);
+ref = tildecomb.case;
+}
+);
+width = 1701;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (489,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (267,0);
+ref = tildecomb.case;
+}
+);
+width = 1688;
+}
+);
+unicode = 209;
+}

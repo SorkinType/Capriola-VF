@@ -1,0 +1,45 @@
+{
+glyphname = Pdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (439,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1387;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (412,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1360;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (373,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1321;
+}
+);
+unicode = 7766;
+}

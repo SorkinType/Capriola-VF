@@ -1,0 +1,45 @@
+{
+glyphname = Egrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (576,0);
+ref = gravecomb.case;
+}
+);
+width = 1354;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (584,0);
+ref = gravecomb.case;
+}
+);
+width = 1362;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (560,0);
+ref = gravecomb.case;
+}
+);
+width = 1338;
+}
+);
+unicode = 200;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = omacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (341,0);
+ref = macroncomb;
+}
+);
+width = 1366;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (341,0);
+ref = macroncomb;
+}
+);
+width = 1366;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (341,0);
+ref = macroncomb;
+}
+);
+width = 1366;
+}
+);
+unicode = 333;
+}

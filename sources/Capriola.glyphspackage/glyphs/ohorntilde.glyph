@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = ohorntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (255,0);
+ref = tildecomb;
+}
+);
+width = 1366;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (255,0);
+ref = tildecomb;
+}
+);
+width = 1366;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (255,0);
+ref = tildecomb;
+}
+);
+width = 1366;
+}
+);
+unicode = 7905;
+}

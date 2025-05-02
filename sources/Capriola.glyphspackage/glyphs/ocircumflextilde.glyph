@@ -1,0 +1,34 @@
+{
+color = 9;
+glyphname = ocircumflextilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+}
+);
+width = 1366;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+}
+);
+width = 1366;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+}
+);
+width = 1366;
+}
+);
+unicode = 7895;
+}

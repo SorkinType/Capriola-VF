@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ehookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (422,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1354;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (430,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1362;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (406,405);
+ref = hookabovecomb.case;
+}
+);
+width = 1338;
+}
+);
+unicode = 7866;
+}

@@ -1,0 +1,1200 @@
+{
+.appVersion = "3413";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Mdotaccent N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent";
+name = Uppercase;
+}
+);
+customParameters = (
+{
+name = licenses;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = uniqueID;
+value = "ViktoriyaGrabowska: Capriola Regular: 2012";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = blueScale;
+value = 0.039625;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = trademarks;
+value = "Capriola is a trademark of Sorkin Type Co.";
+},
+{
+name = year;
+value = 2012;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Use Extension Kerning";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+}
+);
+date = "2025-05-02 02:35:11 +0000";
+familyName = "Capriola v2";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_DFLT_2 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_DFLT_2;
+
+lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb ringcomb tildecomb macroncomb hookabovecomb horncomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case cedillacomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub ldot by l periodcentered.loclCAT;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language CAT;
+lookup locl_latn_2 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;
+sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;
+sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;
+sub circumflexcomb_hookabovecomb by circumflexcomb_hookabovecomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub brevecomb_gravecomb by brevecomb_gravecomb.case;
+sub brevecomb_acutecomb by brevecomb_acutecomb.case;
+sub brevecomb_tildecomb by brevecomb_tildecomb.case;
+sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub hookabovecomb by hookabovecomb.case;
+sub horncomb by horncomb.case;
+sub cedillacomb by cedillacomb.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
+}
+);
+fontMaster = (
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 156";
+width = 156;
+},
+{
+horizontal = 0;
+name = "X: 249";
+width = 249;
+},
+{
+horizontal = 1;
+name = "Y: 200";
+width = 200;
+},
+{
+horizontal = 1;
+name = "Y: 219";
+width = 219;
+},
+{
+horizontal = 1;
+name = "Y: 247";
+width = 247;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1591;
+size = 23;
+},
+{
+name = "t: 0";
+pos = 1085;
+size = 25;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -25;
+},
+{
+name = "b: 1";
+pos = -542;
+size = -26;
+}
+);
+},
+{
+name = typoAscender;
+value = 1992;
+},
+{
+name = typoDescender;
+value = -568;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1992;
+},
+{
+name = hheaDescender;
+value = -568;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1992;
+},
+{
+name = winDescent;
+value = 568;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 102;
+},
+{
+name = underlinePosition;
+value = -154;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+guides = (
+{
+pos = (-79,1452);
+},
+{
+pos = (278,2089);
+},
+{
+pos = (276,1706);
+},
+{
+pos = (276,1624);
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 1992;
+},
+{
+over = 25;
+pos = 1533;
+},
+{
+over = 26;
+pos = 1128;
+},
+{
+over = -25;
+},
+{
+pos = -568;
+},
+{
+},
+{
+over = -32;
+pos = -536;
+},
+{
+over = -32;
+pos = 1780;
+}
+);
+name = Light;
+stemValues = (
+249,
+156,
+219,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247
+);
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 156";
+width = 156;
+},
+{
+horizontal = 0;
+name = "X: 249";
+width = 249;
+},
+{
+horizontal = 1;
+name = "Y: 200";
+width = 200;
+},
+{
+horizontal = 1;
+name = "Y: 219";
+width = 219;
+},
+{
+horizontal = 1;
+name = "Y: 247";
+width = 247;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1591;
+size = 23;
+},
+{
+name = "t: 0";
+pos = 1085;
+size = 25;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -25;
+},
+{
+name = "b: 1";
+pos = -542;
+size = -26;
+}
+);
+},
+{
+name = typoAscender;
+value = 1992;
+},
+{
+name = typoDescender;
+value = -568;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1992;
+},
+{
+name = hheaDescender;
+value = -568;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1992;
+},
+{
+name = winDescent;
+value = 568;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 102;
+},
+{
+name = underlinePosition;
+value = -154;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+guides = (
+{
+pos = (-79,1452);
+},
+{
+pos = (278,2089);
+},
+{
+pos = (276,1706);
+},
+{
+pos = (276,1624);
+}
+);
+id = m002;
+metricValues = (
+{
+pos = 1992;
+},
+{
+over = 25;
+pos = 1533;
+},
+{
+over = 26;
+pos = 1128;
+},
+{
+over = -25;
+},
+{
+pos = -568;
+},
+{
+},
+{
+over = -32;
+pos = -536;
+},
+{
+over = -32;
+pos = 1780;
+}
+);
+name = Regular;
+stemValues = (
+249,
+156,
+219,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247
+);
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 156";
+width = 156;
+},
+{
+horizontal = 0;
+name = "X: 249";
+width = 249;
+},
+{
+horizontal = 1;
+name = "Y: 200";
+width = 200;
+},
+{
+horizontal = 1;
+name = "Y: 219";
+width = 219;
+},
+{
+horizontal = 1;
+name = "Y: 247";
+width = 247;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1591;
+size = 23;
+},
+{
+name = "t: 0";
+pos = 1085;
+size = 25;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -25;
+},
+{
+name = "b: 1";
+pos = -542;
+size = -26;
+}
+);
+},
+{
+name = typoAscender;
+value = 1992;
+},
+{
+name = typoDescender;
+value = -568;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1992;
+},
+{
+name = hheaDescender;
+value = -568;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1992;
+},
+{
+name = winDescent;
+value = 568;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 102;
+},
+{
+name = underlinePosition;
+value = -154;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+guides = (
+{
+pos = (-79,1452);
+},
+{
+pos = (278,2089);
+},
+{
+pos = (276,1706);
+},
+{
+pos = (276,1624);
+}
+);
+id = m003;
+metricValues = (
+{
+pos = 1992;
+},
+{
+over = 25;
+pos = 1533;
+},
+{
+over = 26;
+pos = 1128;
+},
+{
+over = -25;
+},
+{
+pos = -568;
+},
+{
+},
+{
+over = -32;
+pos = -536;
+},
+{
+over = -32;
+pos = 1780;
+}
+);
+name = Bold;
+stemValues = (
+249,
+156,
+219,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247,
+156,
+200,
+247
+);
+}
+);
+instances = (
+{
+axesValues = (
+0
+);
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+300
+);
+name = Regular;
+},
+{
+axesValues = (
+500
+);
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+name = Regular;
+weightClass = 600;
+},
+{
+axesValues = (
+700
+);
+isBold = 1;
+name = Bold;
+weightClass = 700;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+},
+{
+name = "zone 2";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)
+with Reserved Font Name \"Capriola\".";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Viktoriya Grabowska";
+}
+);
+},
+{
+key = designerURL;
+value = www.vikaniesiada.blogspot.com;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Sorkin Type Co.";
+}
+);
+},
+{
+key = manufacturerURL;
+value = www.sorkintype.com;
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Capriola is a trademark of Sorkin Type Co.";
+}
+);
+},
+{
+key = vendorID;
+value = STC;
+}
+);
+settings = {
+fontType = variable;
+previewRemoveOverlap = 0;
+};
+stems = (
+{
+name = vStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+}
+);
+unitsPerEm = 2048;
+userData = {
+UFO.lib = {
+com.fontlab.v2.tth = {
+stems = {
+"X: 156" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"20" = 2;
+"33" = 3;
+"46" = 4;
+"60" = 5;
+"73" = 6;
+};
+width = 156;
+};
+"X: 249" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"14" = 2;
+"23" = 3;
+"32" = 4;
+"40" = 5;
+"46" = 6;
+};
+width = 249;
+};
+"Y: 200" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"14" = 2;
+"23" = 3;
+"32" = 4;
+"47" = 5;
+"57" = 6;
+};
+width = 200;
+};
+"Y: 219" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"14" = 2;
+"23" = 3;
+"32" = 4;
+"40" = 5;
+"52" = 6;
+};
+width = 219;
+};
+"Y: 247" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"14" = 2;
+"23" = 3;
+"32" = 4;
+"40" = 5;
+"46" = 6;
+};
+width = 247;
+};
+};
+zones = {
+"b: 0" = {
+position = 0;
+top = 0;
+width = 25;
+};
+"b: 1" = {
+position = -542;
+top = 0;
+width = 26;
+};
+"t: 0" = {
+position = 1085;
+top = 1;
+width = 25;
+};
+"t: 1" = {
+position = 1591;
+top = 1;
+width = 23;
+};
+};
+};
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -1650;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -1650;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -589;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -335;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -568;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1780;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1125;
+}
+);
+};
+UFOFormat = 2;
+};
+versionMajor = 1;
+versionMinor = 7;
+}

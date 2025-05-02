@@ -1,0 +1,45 @@
+{
+color = 3;
+glyphname = Jacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (183,0);
+ref = acutecomb.case;
+}
+);
+width = 850;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (183,0);
+ref = acutecomb.case;
+}
+);
+width = 850;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (183,0);
+ref = acutecomb.case;
+}
+);
+width = 850;
+}
+);
+}

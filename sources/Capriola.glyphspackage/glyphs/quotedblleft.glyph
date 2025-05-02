@@ -1,0 +1,64 @@
+{
+color = 4;
+glyphname = quotedblleft;
+layers = (
+{
+guides = (
+{
+pos = (0,2144);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (389,0);
+ref = quoteleft;
+},
+{
+pos = (-50,0);
+ref = quoteleft;
+}
+);
+width = 852;
+},
+{
+guides = (
+{
+pos = (0,2144);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (389,0);
+ref = quoteleft;
+},
+{
+pos = (-50,0);
+ref = quoteleft;
+}
+);
+width = 852;
+},
+{
+guides = (
+{
+pos = (0,2144);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (389,0);
+ref = quoteleft;
+},
+{
+pos = (-50,0);
+ref = quoteleft;
+}
+);
+width = 852;
+}
+);
+unicode = 8220;
+}

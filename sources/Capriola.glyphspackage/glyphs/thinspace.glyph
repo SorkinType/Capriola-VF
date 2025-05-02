@@ -1,0 +1,19 @@
+{
+glyphname = thinspace;
+layers = (
+{
+layerId = m001;
+width = 256;
+},
+{
+layerId = m002;
+width = 256;
+},
+{
+layerId = m003;
+width = 256;
+}
+);
+metricWidth = "=256";
+unicode = 8201;
+}

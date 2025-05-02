@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ydotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (421,0);
+ref = dotbelowcomb;
+}
+);
+width = 1355;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (425,0);
+ref = dotbelowcomb;
+}
+);
+width = 1372;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (425,0);
+ref = dotbelowcomb;
+}
+);
+width = 1372;
+}
+);
+unicode = 7924;
+}

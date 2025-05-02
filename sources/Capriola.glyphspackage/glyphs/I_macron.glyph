@@ -1,0 +1,75 @@
+{
+glyphname = Imacron;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (42,0);
+},
+{
+angle = 90;
+pos = (646,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (85,0);
+ref = macroncomb.case;
+}
+);
+width = 683;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (42,0);
+},
+{
+angle = 90;
+pos = (646,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (85,0);
+ref = macroncomb.case;
+}
+);
+width = 683;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (42,0);
+},
+{
+angle = 90;
+pos = (646,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (85,0);
+ref = macroncomb.case;
+}
+);
+width = 703;
+}
+);
+unicode = 298;
+}

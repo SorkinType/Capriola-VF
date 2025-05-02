@@ -1,0 +1,19 @@
+{
+glyphname = threeperemspace;
+layers = (
+{
+layerId = m001;
+width = 682;
+},
+{
+layerId = m002;
+width = 682;
+},
+{
+layerId = m003;
+width = 682;
+}
+);
+metricWidth = "=682";
+unicode = 8196;
+}

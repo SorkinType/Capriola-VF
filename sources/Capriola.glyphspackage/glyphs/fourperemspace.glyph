@@ -1,0 +1,19 @@
+{
+glyphname = fourperemspace;
+layers = (
+{
+layerId = m001;
+width = 512;
+},
+{
+layerId = m002;
+width = 512;
+},
+{
+layerId = m003;
+width = 512;
+}
+);
+metricWidth = "=512";
+unicode = 8197;
+}

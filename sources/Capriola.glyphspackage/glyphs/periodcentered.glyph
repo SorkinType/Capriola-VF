@@ -1,0 +1,37 @@
+{
+color = 4;
+glyphname = periodcentered;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+width = 513;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+width = 513;
+}
+);
+unicode = 183;
+}

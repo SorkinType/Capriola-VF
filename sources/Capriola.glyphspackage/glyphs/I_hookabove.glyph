@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Ihookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (34,405);
+ref = hookabovecomb.case;
+}
+);
+width = 683;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (34,405);
+ref = hookabovecomb.case;
+}
+);
+width = 683;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (34,405);
+ref = hookabovecomb.case;
+}
+);
+width = 703;
+}
+);
+unicode = 7880;
+}

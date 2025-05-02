@@ -1,0 +1,63 @@
+{
+glyphname = Ldot;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (1085,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (1212,0);
+ref = dotaccent;
+}
+);
+width = 1725;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (1085,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (1195,0);
+ref = dotaccent;
+}
+);
+width = 1708;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (1085,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (1146,0);
+ref = dotaccent;
+}
+);
+width = 1659;
+}
+);
+unicode = 319;
+}

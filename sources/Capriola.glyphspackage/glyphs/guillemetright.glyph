@@ -1,0 +1,55 @@
+{
+color = 4;
+glyphname = guillemetright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (867,1148);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1481,1148);
+ref = guilsinglleft;
+}
+);
+width = 1534;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (867,1148);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1481,1148);
+ref = guilsinglleft;
+}
+);
+width = 1534;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (867,1148);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1481,1148);
+ref = guilsinglleft;
+}
+);
+width = 1534;
+}
+);
+unicode = 187;
+}
