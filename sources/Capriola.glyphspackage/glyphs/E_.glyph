@@ -1,16 +1,16 @@
 {
-color = 4;
+color = 9;
 glyphname = E;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (745,0);
+pos = (685,0);
 },
 {
 name = ogonek;
-pos = (1218,10);
+pos = (1223,10);
 },
 {
 name = top;
@@ -18,13 +18,152 @@ pos = (730,1533);
 },
 {
 name = topleft;
-pos = (12,1533);
+pos = (33,1533);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,10);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,4);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1262,0,l),
+(1262,285,l),
+(528,285,l),
+(528,630,l),
+(1119,630,l),
+(1119,913,l),
+(528,913,l),
+(528,1249,l),
+(1257,1249,l),
+(1257,1533,l),
+(199,1533,l),
+(199,0,l)
+);
+}
+);
+width = 1370;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (637,0);
+},
+{
+name = ogonek;
+pos = (1179,10);
+},
+{
+name = top;
+pos = (695,1533);
+},
+{
+name = topleft;
+pos = (-20,1533);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (722,0);
+pos = (682,0);
+},
+{
+pos = (1208,1414);
+},
+{
+pos = (1197,1481);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,10);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,4);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
 }
 );
 layerId = m001;
@@ -32,70 +171,92 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1201,0,o),
-(1219,25,o),
-(1219,56,cs),
-(1219,114,ls),
-(1219,146,o),
-(1201,171,o),
-(1166,171,cs),
-(427,171,l),
-(427,673,l),
-(1021,673,ls),
-(1056,673,o),
-(1074,698,o),
-(1074,729,cs),
-(1074,787,ls),
-(1074,819,o),
-(1056,844,o),
-(1021,844,cs),
-(427,844,l),
-(427,1362,l),
-(1161,1362,ls),
-(1196,1362,o),
-(1214,1387,o),
-(1214,1418,cs),
-(1214,1476,ls),
-(1214,1508,o),
-(1196,1533,o),
-(1161,1533,cs),
-(312,1533,ls),
-(281,1533,o),
-(256,1504,o),
-(256,1469,cs),
-(256,64,ls),
-(256,29,o),
-(281,0,o),
-(311,0,cs),
-(1166,0,l)
+(1179,0,l),
+(1179,171,l),
+(387,171,l),
+(387,673,l),
+(1034,673,l),
+(1034,844,l),
+(387,844,l),
+(387,1362,l),
+(1174,1362,l),
+(1174,1533,l),
+(216,1533,l),
+(216,0,l)
 );
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (745,0);
+pos = (719,0);
 },
 {
 name = ogonek;
-pos = (1218,10);
+pos = (1216,10);
 },
 {
 name = top;
-pos = (730,1533);
+pos = (719,1533);
 },
 {
 name = topleft;
-pos = (12,1533);
+pos = (17,1533);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (722,0);
+pos = (719,0);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,10);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,4);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
 }
 );
 layerId = m002;
@@ -103,164 +264,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1201,0,o),
-(1219,25,o),
-(1219,56,cs),
-(1219,164,ls),
-(1219,196,o),
-(1201,221,o),
-(1166,221,cs),
-(477,221,l),
-(477,653,l),
-(1021,653,ls),
-(1056,653,o),
-(1074,678,o),
-(1074,709,cs),
-(1074,817,ls),
-(1074,849,o),
-(1056,874,o),
-(1021,874,cs),
-(477,874,l),
-(477,1312,l),
-(1161,1312,ls),
-(1196,1312,o),
-(1214,1337,o),
-(1214,1368,cs),
-(1214,1476,ls),
-(1214,1508,o),
-(1196,1533,o),
-(1161,1533,cs),
-(282,1533,ls),
-(251,1533,o),
-(226,1504,o),
-(226,1469,cs),
-(226,64,ls),
-(226,29,o),
-(251,0,o),
-(281,0,cs),
-(1166,0,l)
+(1216,0,l),
+(1216,221,l),
+(474,221,l),
+(474,653,l),
+(1071,653,l),
+(1071,874,l),
+(474,874,l),
+(474,1312,l),
+(1211,1312,l),
+(1211,1533,l),
+(223,1533,l),
+(223,0,l)
 );
 }
 );
-width = 1354;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (729,0);
-},
-{
-name = ogonek;
-pos = (1202,10);
-},
-{
-name = top;
-pos = (714,1533);
-},
-{
-name = topleft;
-pos = (-4,1533);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(1185,0,o),
-(1203,25,o),
-(1203,56,cs),
-(1203,164,ls),
-(1203,196,o),
-(1185,221,o),
-(1150,221,cs),
-(461,221,l),
-(461,653,l),
-(1005,653,ls),
-(1040,653,o),
-(1058,678,o),
-(1058,709,cs),
-(1058,817,ls),
-(1058,849,o),
-(1040,874,o),
-(1005,874,cs),
-(461,874,l),
-(461,1312,l),
-(1145,1312,ls),
-(1180,1312,o),
-(1198,1337,o),
-(1198,1368,cs),
-(1198,1476,ls),
-(1198,1508,o),
-(1180,1533,o),
-(1145,1533,cs),
-(266,1533,ls),
-(235,1533,o),
-(210,1504,o),
-(210,1469,cs),
-(210,64,ls),
-(210,29,o),
-(235,0,o),
-(265,0,cs),
-(1150,0,l)
-);
-}
-);
-};
-guides = (
-{
-angle = 90;
-pos = (706,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(1185,0,o),
-(1203,25,o),
-(1203,56,cs),
-(1203,244,ls),
-(1203,276,o),
-(1185,301,o),
-(1150,301,cs),
-(561,301,l),
-(561,623,l),
-(1005,623,ls),
-(1040,623,o),
-(1058,648,o),
-(1058,679,cs),
-(1058,857,ls),
-(1058,889,o),
-(1040,914,o),
-(1005,914,cs),
-(561,914,l),
-(561,1232,l),
-(1145,1232,ls),
-(1180,1232,o),
-(1198,1257,o),
-(1198,1288,cs),
-(1198,1476,ls),
-(1198,1508,o),
-(1180,1533,o),
-(1145,1533,cs),
-(246,1533,ls),
-(215,1533,o),
-(190,1504,o),
-(190,1469,cs),
-(190,64,ls),
-(190,29,o),
-(215,0,o),
-(245,0,cs),
-(1150,0,l)
-);
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 metricLeft = H;
 unicode = 69;
+userData = {
+KernOnName = E;
+};
 }

@@ -1,7 +1,19 @@
 {
-color = 0;
 glyphname = aogonek;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (554,0);
+ref = ogonekcomb;
+}
+);
+width = 1199;
+},
 {
 guides = (
 {
@@ -15,11 +27,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (605,10);
+pos = (583,0);
 ref = ogonekcomb;
 }
 );
-width = 1195;
+width = 1135;
 },
 {
 guides = (
@@ -34,26 +46,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (605,10);
-ref = ogonekcomb;
-}
-);
-width = 1195;
-},
-{
-guides = (
-{
-angle = 90;
-pos = (1091,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = a;
-},
-{
-pos = (605,10);
+pos = (603,0);
 ref = ogonekcomb;
 }
 );

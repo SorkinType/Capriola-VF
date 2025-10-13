@@ -2,33 +2,33 @@
 glyphname = Sdotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (302,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 1210;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = S;
 },
 {
-pos = (329,0);
+pos = (299,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1194;
+width = 1134;
 },
 {
 layerId = m002;
-shapes = (
-{
-ref = S;
-},
-{
-pos = (329,0);
-ref = dotaccentcomb.case;
-}
-);
-width = 1194;
-},
-{
-layerId = m003;
 shapes = (
 {
 ref = S;

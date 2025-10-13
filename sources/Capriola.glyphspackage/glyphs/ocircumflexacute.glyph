@@ -1,7 +1,20 @@
 {
-color = 9;
+color = 10;
 glyphname = ocircumflexacute;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (247,0);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 1376;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +22,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (257,-8);
+pos = (227,0);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1366;
+width = 1308;
 },
 {
 layerId = m002;
@@ -22,24 +35,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (257,-8);
+pos = (252,0);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1366;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = o;
-},
-{
-pos = (257,-8);
-ref = circumflexcomb_acutecomb;
-}
-);
-width = 1366;
+width = 1358;
 }
 );
 unicode = 7889;

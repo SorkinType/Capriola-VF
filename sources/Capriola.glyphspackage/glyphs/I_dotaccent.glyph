@@ -2,17 +2,30 @@
 glyphname = Idotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (47,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 709;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = I;
 },
 {
-pos = (74,0);
+pos = (44,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -26,19 +39,6 @@ ref = dotaccentcomb.case;
 }
 );
 width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (74,0);
-ref = dotaccentcomb.case;
-}
-);
-width = 703;
 }
 );
 unicode = 304;

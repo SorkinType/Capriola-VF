@@ -2,6 +2,15 @@
 glyphname = Dcroat;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1537;
+},
+{
 guides = (
 {
 pos = (0,647);
@@ -13,7 +22,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 1533;
+width = 1461;
 },
 {
 guides = (
@@ -27,21 +36,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 1533;
-},
-{
-guides = (
-{
-pos = (0,647);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = Eth;
-}
-);
-width = 1533;
+width = 1518;
 }
 );
 unicode = 272;

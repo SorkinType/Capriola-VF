@@ -2,17 +2,30 @@
 glyphname = edotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (347,0);
+ref = dotaccentcomb;
+}
+);
+width = 1198;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = e;
 },
 {
-pos = (381,0);
+pos = (364,0);
 ref = dotaccentcomb;
 }
 );
-width = 1195;
+width = 1139;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (381,0);
-ref = dotaccentcomb;
-}
-);
-width = 1195;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = e;
-},
-{
-pos = (381,0);
+pos = (377,0);
 ref = dotaccentcomb;
 }
 );

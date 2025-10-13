@@ -2,17 +2,30 @@
 glyphname = itilde;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-130,0);
+ref = tildecomb;
+}
+);
+width = 692;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = idotless;
 },
 {
-pos = (-86,0);
+pos = (-130,0);
 ref = tildecomb;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-86,0);
-ref = tildecomb;
-}
-);
-width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-86,0);
+pos = (-103,0);
 ref = tildecomb;
 }
 );
@@ -42,4 +42,7 @@ width = 683;
 }
 );
 unicode = 297;
+userData = {
+KernOnName = itilde;
+};
 }

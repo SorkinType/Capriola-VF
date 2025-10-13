@@ -2,17 +2,30 @@
 glyphname = Ograve;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (471,0);
+ref = gravecomb.case;
+}
+);
+width = 1735;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = O;
 },
 {
-pos = (701,0);
+pos = (486,0);
 ref = gravecomb.case;
 }
 );
-width = 1709;
+width = 1649;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (701,0);
+pos = (490,0);
 ref = gravecomb.case;
 }
 );
 width = 1709;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (691,0);
-ref = gravecomb.case;
-}
-);
-width = 1689;
 }
 );
 unicode = 210;

@@ -1,7 +1,20 @@
 {
-color = 9;
 glyphname = ohorntilde;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = ohorn;
+},
+{
+anchor = top2;
+pos = (183,0);
+ref = tildecomb;
+}
+);
+width = 1388;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +22,12 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (255,0);
+anchor = top2;
+pos = (250,0);
 ref = tildecomb;
 }
 );
-width = 1366;
+width = 1306;
 },
 {
 layerId = m002;
@@ -22,20 +36,8 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (255,0);
-ref = tildecomb;
-}
-);
-width = 1366;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (255,0);
+anchor = top2;
+pos = (237,0);
 ref = tildecomb;
 }
 );

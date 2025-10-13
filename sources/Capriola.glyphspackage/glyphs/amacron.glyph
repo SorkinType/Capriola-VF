@@ -2,33 +2,33 @@
 glyphname = amacron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (208,-7);
+ref = macroncomb;
+}
+);
+width = 1199;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = a;
 },
 {
-pos = (256,0);
+pos = (226,0);
 ref = macroncomb;
 }
 );
-width = 1195;
+width = 1135;
 },
 {
 layerId = m002;
-shapes = (
-{
-ref = a;
-},
-{
-pos = (256,0);
-ref = macroncomb;
-}
-);
-width = 1195;
-},
-{
-layerId = m003;
 shapes = (
 {
 ref = a;

@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = ohorngrave;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (283,0);
+ref = gravecomb;
+}
+);
+width = 1388;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (356,0);
+pos = (281,0);
 ref = gravecomb;
 }
 );
-width = 1366;
+width = 1306;
 },
 {
 layerId = m002;
@@ -22,20 +34,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (356,0);
-ref = gravecomb;
-}
-);
-width = 1366;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (356,0);
+pos = (286,0);
 ref = gravecomb;
 }
 );

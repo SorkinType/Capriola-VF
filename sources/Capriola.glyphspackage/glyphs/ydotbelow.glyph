@@ -1,7 +1,20 @@
 {
-color = 9;
 glyphname = ydotbelow;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = y;
+},
+{
+anchor = dot;
+pos = (665,5);
+ref = dotbelowcomb;
+}
+);
+width = 1132;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,12 +22,12 @@ shapes = (
 ref = y;
 },
 {
-alignment = -1;
-pos = (729,101);
+anchor = dot;
+pos = (678,0);
 ref = dotbelowcomb;
 }
 );
-width = 1170;
+width = 1118;
 },
 {
 layerId = m002;
@@ -23,26 +36,12 @@ shapes = (
 ref = y;
 },
 {
-alignment = -1;
-pos = (729,101);
+anchor = dot;
+pos = (708,0);
 ref = dotbelowcomb;
 }
 );
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = y;
-},
-{
-alignment = -1;
-pos = (729,101);
-ref = dotbelowcomb;
-}
-);
-width = 1193;
+width = 1170;
 }
 );
 unicode = 7925;

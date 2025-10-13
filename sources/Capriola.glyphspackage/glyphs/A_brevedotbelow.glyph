@@ -1,7 +1,23 @@
 {
-color = 9;
 glyphname = Abrevedotbelow;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (477,0);
+ref = dotbelowcomb;
+},
+{
+pos = (381,0);
+ref = brevecomb.case;
+}
+);
+width = 1547;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,15 +25,15 @@ shapes = (
 ref = A;
 },
 {
-pos = (511,0);
+pos = (482,0);
 ref = dotbelowcomb;
 },
 {
-pos = (428,0);
+pos = (399,0);
 ref = brevecomb.case;
 }
 );
-width = 1537;
+width = 1477;
 },
 {
 layerId = m002;
@@ -30,24 +46,7 @@ pos = (511,0);
 ref = dotbelowcomb;
 },
 {
-pos = (428,0);
-ref = brevecomb.case;
-}
-);
-width = 1536;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (511,0);
-ref = dotbelowcomb;
-},
-{
-pos = (428,0);
+pos = (425,0);
 ref = brevecomb.case;
 }
 );

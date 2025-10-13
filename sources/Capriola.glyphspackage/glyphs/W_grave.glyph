@@ -2,17 +2,30 @@
 glyphname = Wgrave;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (739,-22);
+ref = gravecomb.case;
+}
+);
+width = 2279;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = W;
 },
 {
-pos = (875,0);
+pos = (675,0);
 ref = gravecomb.case;
 }
 );
-width = 2052;
+width = 2027;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (875,0);
-ref = gravecomb.case;
-}
-);
-width = 2052;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = W;
-},
-{
-pos = (875,0);
+pos = (661,0);
 ref = gravecomb.case;
 }
 );
@@ -42,4 +42,10 @@ width = 2052;
 }
 );
 unicode = 7808;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

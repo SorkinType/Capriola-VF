@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = Odotbelow;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (571,0);
+ref = dotbelowcomb;
+}
+);
+width = 1735;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (598,0);
+pos = (551,0);
 ref = dotbelowcomb;
 }
 );
-width = 1709;
+width = 1615;
 },
 {
 layerId = m002;
@@ -27,19 +39,6 @@ ref = dotbelowcomb;
 }
 );
 width = 1709;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (588,0);
-ref = dotbelowcomb;
-}
-);
-width = 1689;
 }
 );
 unicode = 7884;

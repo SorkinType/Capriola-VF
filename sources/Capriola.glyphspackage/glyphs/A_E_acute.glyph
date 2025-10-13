@@ -2,17 +2,30 @@
 glyphname = AEacute;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (961,0);
+ref = acutecomb.case;
+}
+);
+width = 1899;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = AE;
 },
 {
-pos = (780,0);
+pos = (970,0);
 ref = acutecomb.case;
 }
 );
-width = 1873;
+width = 1813;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (780,0);
-ref = acutecomb.case;
-}
-);
-width = 1873;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = AE;
-},
-{
-pos = (780,0);
+pos = (958,0);
 ref = acutecomb.case;
 }
 );
@@ -42,4 +42,10 @@ width = 1873;
 }
 );
 unicode = 508;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

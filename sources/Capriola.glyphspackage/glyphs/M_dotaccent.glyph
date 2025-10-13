@@ -2,33 +2,33 @@
 glyphname = Mdotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (711,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 2047;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = M;
 },
 {
-pos = (752,0);
+pos = (722,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 2039;
+width = 1979;
 },
 {
 layerId = m002;
-shapes = (
-{
-ref = M;
-},
-{
-pos = (752,0);
-ref = dotaccentcomb.case;
-}
-);
-width = 2039;
-},
-{
-layerId = m003;
 shapes = (
 {
 ref = M;

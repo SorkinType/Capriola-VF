@@ -1,7 +1,20 @@
 {
-color = 9;
+color = 10;
 glyphname = Ecircumflexhookabove;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (281,0);
+ref = circumflexcomb_hookabovecomb.case;
+}
+);
+width = 1370;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +22,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (304,0);
+pos = (262,0);
 ref = circumflexcomb_hookabovecomb.case;
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 layerId = m002;
@@ -22,24 +35,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (312,0);
+pos = (293,0);
 ref = circumflexcomb_hookabovecomb.case;
 }
 );
-width = 1362;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (288,0);
-ref = circumflexcomb_hookabovecomb.case;
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 unicode = 7874;

@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = Ohornhookabove;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (520,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1724;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (547,405);
+pos = (497,0);
 ref = hookabovecomb.case;
 }
 );
-width = 1709;
+width = 1649;
 },
 {
 layerId = m002;
@@ -22,20 +34,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (547,405);
-ref = hookabovecomb.case;
-}
-);
-width = 1709;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = Ohorn;
-},
-{
-pos = (547,405);
+pos = (527,0);
 ref = hookabovecomb.case;
 }
 );

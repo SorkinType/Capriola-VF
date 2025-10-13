@@ -2,17 +2,30 @@
 glyphname = Amacron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (463,0);
+ref = macroncomb.case;
+}
+);
+width = 1547;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = A;
 },
 {
-pos = (511,0);
+pos = (482,0);
 ref = macroncomb.case;
 }
 );
-width = 1537;
+width = 1477;
 },
 {
 layerId = m002;
@@ -26,20 +39,13 @@ ref = macroncomb.case;
 }
 );
 width = 1536;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (511,0);
-ref = macroncomb.case;
-}
-);
-width = 1536;
 }
 );
 unicode = 256;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

@@ -2,17 +2,30 @@
 glyphname = Zdotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (299,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 1209;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = Z;
 },
 {
-pos = (329,0);
+pos = (317,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1193;
+width = 1133;
 },
 {
 layerId = m002;
@@ -26,20 +39,13 @@ ref = dotaccentcomb.case;
 }
 );
 width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = Z;
-},
-{
-pos = (329,0);
-ref = dotaccentcomb.case;
-}
-);
-width = 1193;
 }
 );
 unicode = 379;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

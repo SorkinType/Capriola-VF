@@ -2,17 +2,30 @@
 glyphname = Ncaron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (403,0);
+ref = caroncomb.case;
+}
+);
+width = 1695;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = N;
 },
 {
-pos = (406,0);
+pos = (362,0);
 ref = caroncomb.case;
 }
 );
-width = 1664;
+width = 1584;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (421,0);
+pos = (407,0);
 ref = caroncomb.case;
 }
 );
-width = 1701;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = N;
-},
-{
-pos = (410,0);
-ref = caroncomb.case;
-}
-);
-width = 1688;
+width = 1674;
 }
 );
 unicode = 327;

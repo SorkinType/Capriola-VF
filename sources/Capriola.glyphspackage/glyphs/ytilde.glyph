@@ -1,34 +1,52 @@
 {
-color = 9;
 glyphname = ytilde;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (142,0);
+ref = tildecomb;
+}
+);
+width = 1132;
+},
 {
 layerId = m001;
 shapes = (
 {
 ref = y;
+},
+{
+pos = (160,0);
+ref = tildecomb;
 }
 );
-width = 1170;
+width = 1118;
 },
 {
 layerId = m002;
 shapes = (
 {
 ref = y;
-}
-);
-width = 1193;
 },
 {
-layerId = m003;
-shapes = (
-{
-ref = y;
+pos = (179,0);
+ref = tildecomb;
 }
 );
-width = 1193;
+width = 1170;
 }
 );
 unicode = 7929;
+userData = {
+KernOnName = ytilde;
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

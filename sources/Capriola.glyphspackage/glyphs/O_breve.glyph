@@ -2,17 +2,30 @@
 glyphname = Obreve;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (489,0);
+ref = brevecomb.case;
+}
+);
+width = 1735;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = O;
 },
 {
-pos = (515,0);
+pos = (468,0);
 ref = brevecomb.case;
 }
 );
-width = 1709;
+width = 1615;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (515,0);
+pos = (512,0);
 ref = brevecomb.case;
 }
 );
 width = 1709;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (505,0);
-ref = brevecomb.case;
-}
-);
-width = 1689;
 }
 );
 unicode = 334;

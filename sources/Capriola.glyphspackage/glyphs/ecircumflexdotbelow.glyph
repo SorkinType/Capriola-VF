@@ -1,7 +1,23 @@
 {
-color = 9;
 glyphname = ecircumflexdotbelow;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (341,0);
+ref = dotbelowcomb;
+},
+{
+pos = (192,0);
+ref = circumflexcomb;
+}
+);
+width = 1198;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,15 +25,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (396,0);
+pos = (364,0);
 ref = dotbelowcomb;
 },
 {
-pos = (212,0);
+pos = (195,0);
 ref = circumflexcomb;
 }
 );
-width = 1195;
+width = 1139;
 },
 {
 layerId = m002;
@@ -26,28 +42,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (396,0);
+pos = (374,0);
 ref = dotbelowcomb;
 },
 {
-pos = (212,0);
-ref = circumflexcomb;
-}
-);
-width = 1195;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = e;
-},
-{
-pos = (396,0);
-ref = dotbelowcomb;
-},
-{
-pos = (212,0);
+pos = (208,0);
 ref = circumflexcomb;
 }
 );

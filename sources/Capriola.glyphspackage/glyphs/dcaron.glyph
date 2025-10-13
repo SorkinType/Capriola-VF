@@ -2,44 +2,51 @@
 glyphname = dcaron;
 layers = (
 {
-layerId = m001;
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
+alignment = -1;
 ref = d;
 },
 {
-pos = (1428,247);
+pos = (1275,-1);
 ref = caroncomb.alt;
 }
 );
-width = 1484;
+width = 1485;
+},
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1185,0);
+ref = caroncomb.alt;
+}
+);
+width = 1340;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = d;
 },
 {
-pos = (1428,247);
+pos = (1290,0);
 ref = caroncomb.alt;
 }
 );
-width = 1484;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = d;
-},
-{
-pos = (1428,247);
-ref = caroncomb.alt;
+width = 1442;
 }
 );
-width = 1484;
-}
-);
+metricRight = "=lcaron";
 unicode = 271;
+userData = {
+KernOnName = dcaron;
+};
 }

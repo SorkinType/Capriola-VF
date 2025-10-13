@@ -2,17 +2,30 @@
 glyphname = Edotaccent;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (422,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 1370;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = E;
 },
 {
-pos = (462,0);
+pos = (427,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (470,0);
+pos = (451,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1362;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (446,0);
-ref = dotaccentcomb.case;
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 unicode = 278;

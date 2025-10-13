@@ -2,6 +2,23 @@
 glyphname = iogonek;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (19,0);
+ref = dotaccentcomb;
+},
+{
+pos = (38,-1);
+ref = ogonekcomb;
+}
+);
+width = 692;
+},
+{
 guides = (
 {
 angle = 90;
@@ -14,15 +31,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (85,0);
+pos = (16,0);
 ref = dotaccentcomb;
 },
 {
-pos = (111,0);
+pos = (93,28);
 ref = ogonekcomb;
 }
 );
-width = 683;
+width = 623;
 },
 {
 guides = (
@@ -37,30 +54,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (85,0);
-ref = dotaccentcomb;
-},
-{
-pos = (111,0);
-ref = ogonekcomb;
-}
-);
-width = 683;
-},
-{
-guides = (
-{
-angle = 90;
-pos = (632,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (85,0);
+pos = (46,0);
 ref = dotaccentcomb;
 },
 {

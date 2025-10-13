@@ -2,33 +2,33 @@
 glyphname = scaron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (72,0);
+ref = caroncomb;
+}
+);
+width = 1031;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = s;
 },
 {
-pos = (80,0);
+pos = (56,0);
 ref = caroncomb;
 }
 );
-width = 1024;
+width = 964;
 },
 {
 layerId = m002;
-shapes = (
-{
-ref = s;
-},
-{
-pos = (80,0);
-ref = caroncomb;
-}
-);
-width = 1024;
-},
-{
-layerId = m003;
 shapes = (
 {
 ref = s;

@@ -2,17 +2,30 @@
 glyphname = cacute;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (432,0);
+ref = acutecomb;
+}
+);
+width = 1207;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = c;
 },
 {
-pos = (259,0);
+pos = (438,0);
 ref = acutecomb;
 }
 );
-width = 1193;
+width = 1133;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (259,0);
-ref = acutecomb;
-}
-);
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = c;
-},
-{
-pos = (259,0);
+pos = (449,0);
 ref = acutecomb;
 }
 );
@@ -42,4 +42,7 @@ width = 1193;
 }
 );
 unicode = 263;
+userData = {
+KernOnName = cacute;
+};
 }

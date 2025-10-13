@@ -2,40 +2,74 @@
 glyphname = Tcedilla;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (214,0);
+ref = T;
+},
+{
+pos = (556,0);
+ref = commaaccent;
+}
+);
+};
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (303,0);
+ref = commaaccentcomb.comb.case;
+}
+);
+width = 1218;
+},
+{
+background = {
+shapes = (
+{
+ref = T;
+},
+{
+pos = (342,0);
+ref = commaaccent;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
 ref = T;
 },
 {
+pos = (301,0);
+ref = commaaccentcomb.comb.case;
+}
+);
+width = 1132;
+},
+{
+background = {
+shapes = (
+{
+ref = T;
+},
+{
 pos = (342,0);
 ref = commaaccent;
 }
 );
-width = 1192;
-},
-{
+};
 layerId = m002;
 shapes = (
 {
 ref = T;
 },
 {
-pos = (342,0);
-ref = commaaccent;
-}
-);
-width = 1192;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = T;
-},
-{
-pos = (342,0);
-ref = commaaccent;
+pos = (332,0);
+ref = commaaccentcomb.comb.case;
 }
 );
 width = 1192;

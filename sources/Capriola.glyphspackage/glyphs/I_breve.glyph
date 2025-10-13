@@ -2,17 +2,30 @@
 glyphname = Ibreve;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-24,0);
+ref = brevecomb.case;
+}
+);
+width = 709;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = I;
 },
 {
-pos = (2,0);
+pos = (-28,0);
 ref = brevecomb.case;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (2,0);
+pos = (-1,0);
 ref = brevecomb.case;
 }
 );
 width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (2,0);
-ref = brevecomb.case;
-}
-);
-width = 703;
 }
 );
 unicode = 300;

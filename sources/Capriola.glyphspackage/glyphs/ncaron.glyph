@@ -2,6 +2,19 @@
 glyphname = ncaron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (222,0);
+ref = caroncomb;
+}
+);
+width = 1349;
+},
+{
 guides = (
 {
 pos = (0,1697);
@@ -13,11 +26,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (250,0);
+pos = (220,0);
 ref = caroncomb;
 }
 );
-width = 1364;
+width = 1304;
 },
 {
 guides = (
@@ -26,24 +39,6 @@ pos = (0,1697);
 }
 );
 layerId = m002;
-shapes = (
-{
-ref = n;
-},
-{
-pos = (250,0);
-ref = caroncomb;
-}
-);
-width = 1364;
-},
-{
-guides = (
-{
-pos = (0,1697);
-}
-);
-layerId = m003;
 shapes = (
 {
 ref = n;

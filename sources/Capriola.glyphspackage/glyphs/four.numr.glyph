@@ -1,0 +1,41 @@
+{
+glyphname = four.numr;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+pos = (0,-256);
+ref = foursuperior;
+}
+);
+width = 1000;
+},
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-231);
+ref = foursuperior;
+}
+);
+width = 876;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,-231);
+ref = foursuperior;
+}
+);
+width = 998;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

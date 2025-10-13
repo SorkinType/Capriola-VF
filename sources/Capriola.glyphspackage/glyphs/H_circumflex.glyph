@@ -2,17 +2,30 @@
 glyphname = Hcircumflex;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (414,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1725;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = H;
 },
 {
-pos = (415,0);
+pos = (379,0);
 ref = circumflexcomb.case;
 }
 );
-width = 1699;
+width = 1619;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (415,0);
+pos = (416,0);
 ref = circumflexcomb.case;
 }
 );
-width = 1699;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = H;
-},
-{
-pos = (409,0);
-ref = circumflexcomb.case;
-}
-);
-width = 1687;
+width = 1693;
 }
 );
 unicode = 292;

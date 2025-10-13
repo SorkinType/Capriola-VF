@@ -1,0 +1,41 @@
+{
+glyphname = one.dnom;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+pos = (0,-855);
+ref = onesuperior;
+}
+);
+width = 670;
+},
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-855);
+ref = onesuperior;
+}
+);
+width = 619;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,-855);
+ref = onesuperior;
+}
+);
+width = 679;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

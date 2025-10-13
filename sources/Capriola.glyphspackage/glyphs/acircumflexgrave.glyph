@@ -1,7 +1,20 @@
 {
-color = 9;
+color = 10;
 glyphname = acircumflexgrave;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (149,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 1199;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +22,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (172,-8);
+pos = (141,0);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1195;
+width = 1135;
 },
 {
 layerId = m002;
@@ -22,20 +35,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (172,-8);
-ref = circumflexcomb_gravecomb;
-}
-);
-width = 1195;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = a;
-},
-{
-pos = (172,-8);
+pos = (172,0);
 ref = circumflexcomb_gravecomb;
 }
 );

@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = uhorngrave;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (232,0);
+ref = gravecomb;
+}
+);
+width = 1357;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (338,0);
+pos = (232,0);
 ref = gravecomb;
 }
 );
-width = 1372;
+width = 1312;
 },
 {
 layerId = m002;
@@ -22,20 +34,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (338,0);
-ref = gravecomb;
-}
-);
-width = 1372;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = uhorn;
-},
-{
-pos = (338,0);
+pos = (269,0);
 ref = gravecomb;
 }
 );

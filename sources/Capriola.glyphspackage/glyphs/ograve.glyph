@@ -2,17 +2,30 @@
 glyphname = ograve;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (277,0);
+ref = gravecomb;
+}
+);
+width = 1376;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = o;
 },
 {
-pos = (356,0);
+pos = (281,0);
 ref = gravecomb;
 }
 );
-width = 1366;
+width = 1308;
 },
 {
 layerId = m002;
@@ -21,25 +34,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (356,0);
+pos = (281,0);
 ref = gravecomb;
 }
 );
-width = 1366;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = o;
-},
-{
-pos = (356,0);
-ref = gravecomb;
-}
-);
-width = 1366;
+width = 1358;
 }
 );
 unicode = 242;
+userData = {
+KernOnName = ograve;
+};
 }

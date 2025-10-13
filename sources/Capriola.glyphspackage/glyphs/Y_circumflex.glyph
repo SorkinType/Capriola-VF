@@ -2,6 +2,19 @@
 glyphname = Ycircumflex;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (335,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1559;
+},
+{
 guides = (
 {
 angle = 90;
@@ -14,11 +27,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (243,0);
+pos = (234,0);
 ref = circumflexcomb.case;
 }
 );
-width = 1355;
+width = 1312;
 },
 {
 guides = (
@@ -33,26 +46,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (247,0);
-ref = circumflexcomb.case;
-}
-);
-width = 1372;
-},
-{
-guides = (
-{
-angle = 90;
-pos = (695,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (247,0);
+pos = (255,0);
 ref = circumflexcomb.case;
 }
 );
@@ -60,4 +54,10 @@ width = 1372;
 }
 );
 unicode = 374;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

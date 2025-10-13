@@ -2,44 +2,74 @@
 glyphname = yacute;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (360,0);
+ref = acutecomb;
+}
+);
+width = 1132;
+},
+{
+background = {
+shapes = (
+{
+ref = y;
+},
+{
+pos = (411,0);
+ref = acutecomb;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
 ref = y;
 },
 {
+pos = (381,0);
+ref = acutecomb;
+}
+);
+width = 1118;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
 pos = (259,0);
 ref = acutecomb;
 }
 );
-width = 1170;
-},
-{
+};
 layerId = m002;
 shapes = (
 {
 ref = y;
 },
 {
-pos = (259,0);
+pos = (377,0);
 ref = acutecomb;
 }
 );
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = y;
-},
-{
-pos = (259,0);
-ref = acutecomb;
-}
-);
-width = 1193;
+width = 1170;
 }
 );
 unicode = 253;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

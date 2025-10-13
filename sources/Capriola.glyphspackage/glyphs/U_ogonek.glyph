@@ -2,17 +2,30 @@
 glyphname = Uogonek;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (504,0);
+ref = ogonekcomb;
+}
+);
+width = 1546;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = U;
 },
 {
-pos = (590,10);
+pos = (460,0);
 ref = ogonekcomb;
 }
 );
-width = 1529;
+width = 1418;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (590,10);
-ref = ogonekcomb;
-}
-);
-width = 1529;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = U;
-},
-{
-pos = (590,10);
+pos = (589,0);
 ref = ogonekcomb;
 }
 );

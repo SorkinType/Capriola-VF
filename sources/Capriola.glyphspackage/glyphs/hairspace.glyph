@@ -2,18 +2,24 @@
 glyphname = hairspace;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 143;
+},
+{
 layerId = m001;
 width = 143;
 },
 {
 layerId = m002;
 width = 143;
-},
-{
-layerId = m003;
-width = 143;
 }
 );
 metricWidth = "=143";
 unicode = 8202;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,19 @@
 {
-color = 3;
 glyphname = jacute;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (127,0);
+ref = acutecomb;
+}
+);
+width = 689;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (24,0);
+pos = (140,0);
 ref = acutecomb;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -22,20 +34,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (24,0);
-ref = acutecomb;
-}
-);
-width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = jdotless;
-},
-{
-pos = (24,0);
+pos = (144,0);
 ref = acutecomb;
 }
 );

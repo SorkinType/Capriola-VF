@@ -1,7 +1,19 @@
 {
-color = 4;
 glyphname = gcommaaccent;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (188,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 1196;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,12 +21,11 @@ shapes = (
 ref = g;
 },
 {
-angle = 180;
-pos = (857,1192);
-ref = commaaccent;
+pos = (236,0);
+ref = commaturnedabovecomb;
 }
 );
-width = 1193;
+width = 1137;
 },
 {
 layerId = m002;
@@ -23,23 +34,8 @@ shapes = (
 ref = g;
 },
 {
-angle = 180;
-pos = (857,1192);
-ref = commaaccent;
-}
-);
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = g;
-},
-{
-angle = 180;
-pos = (857,1192);
-ref = commaaccent;
+pos = (248,0);
+ref = commaturnedabovecomb;
 }
 );
 width = 1193;

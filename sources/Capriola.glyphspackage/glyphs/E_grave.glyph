@@ -2,17 +2,30 @@
 glyphname = Egrave;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (333,0);
+ref = gravecomb.case;
+}
+);
+width = 1370;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = E;
 },
 {
-pos = (576,0);
+pos = (356,0);
 ref = gravecomb.case;
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (584,0);
+pos = (354,0);
 ref = gravecomb.case;
 }
 );
-width = 1362;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (560,0);
-ref = gravecomb.case;
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 unicode = 200;

@@ -2,17 +2,30 @@
 glyphname = icircumflex;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-136,0);
+ref = circumflexcomb;
+}
+);
+width = 692;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = idotless;
 },
 {
-pos = (-84,0);
+pos = (-153,0);
 ref = circumflexcomb;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-84,0);
-ref = circumflexcomb;
-}
-);
-width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-84,0);
+pos = (-123,0);
 ref = circumflexcomb;
 }
 );
@@ -42,4 +42,7 @@ width = 683;
 }
 );
 unicode = 238;
+userData = {
+KernOnName = icircumflex;
+};
 }

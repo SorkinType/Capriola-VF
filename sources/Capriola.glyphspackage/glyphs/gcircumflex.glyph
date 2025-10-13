@@ -2,17 +2,30 @@
 glyphname = gcircumflex;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (68,0);
+ref = circumflexcomb;
+}
+);
+width = 1196;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = g;
 },
 {
-pos = (171,0);
+pos = (113,0);
 ref = circumflexcomb;
 }
 );
-width = 1193;
+width = 1137;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (171,0);
-ref = circumflexcomb;
-}
-);
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = g;
-},
-{
-pos = (171,0);
+pos = (125,0);
 ref = circumflexcomb;
 }
 );

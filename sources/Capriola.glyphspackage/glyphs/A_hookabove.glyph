@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = Ahookabove;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (432,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1547;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (460,405);
+pos = (431,0);
 ref = hookabovecomb.case;
 }
 );
-width = 1537;
+width = 1477;
 },
 {
 layerId = m002;
@@ -22,20 +34,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (460,405);
-ref = hookabovecomb.case;
-}
-);
-width = 1536;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (460,405);
+pos = (460,0);
 ref = hookabovecomb.case;
 }
 );

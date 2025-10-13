@@ -2,17 +2,30 @@
 glyphname = Zacute;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (418,0);
+ref = acutecomb.case;
+}
+);
+width = 1209;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = Z;
 },
 {
-pos = (240,0);
+pos = (448,0);
 ref = acutecomb.case;
 }
 );
-width = 1193;
+width = 1133;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (240,0);
-ref = acutecomb.case;
-}
-);
-width = 1193;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = Z;
-},
-{
-pos = (240,0);
+pos = (418,0);
 ref = acutecomb.case;
 }
 );
@@ -42,4 +42,10 @@ width = 1193;
 }
 );
 unicode = 377;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

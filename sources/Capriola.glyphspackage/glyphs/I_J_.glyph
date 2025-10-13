@@ -2,17 +2,30 @@
 glyphname = IJ;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (712,0);
+ref = J;
+}
+);
+width = 1578;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = I;
 },
 {
-pos = (683,0);
+pos = (600,0);
 ref = J;
 }
 );
-width = 1533;
+width = 1390;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (683,0);
+pos = (677,0);
 ref = J;
 }
 );
-width = 1533;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (703,0);
-ref = J;
-}
-);
-width = 1553;
+width = 1527;
 }
 );
 unicode = 306;

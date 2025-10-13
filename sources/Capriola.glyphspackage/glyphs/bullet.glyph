@@ -1,9 +1,20 @@
 {
-color = 4;
 glyphname = bullet;
 layers = (
 {
-layerId = m001;
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+alignment = -1;
+pos = (6,411);
+ref = period;
+scale = (1.3012,1.3029);
+}
+);
+width = 733;
+},
+{
+background = {
 shapes = (
 {
 pos = (6,411);
@@ -11,7 +22,16 @@ ref = period;
 scale = (1.3012,1.3029);
 }
 );
-width = 681;
+};
+layerId = m001;
+shapes = (
+{
+pos = (15,411);
+ref = period;
+scale = (1.3012,1.3029);
+}
+);
+width = 621;
 },
 {
 layerId = m002;
@@ -23,18 +43,13 @@ scale = (1.3012,1.3029);
 }
 );
 width = 681;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (6,411);
-ref = period;
-scale = (1.3012,1.3029);
-}
-);
-width = 681;
 }
 );
 unicode = 8226;
+userData = {
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
 }

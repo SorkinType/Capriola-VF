@@ -2,17 +2,30 @@
 glyphname = Ebreve;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (351,0);
+ref = brevecomb.case;
+}
+);
+width = 1370;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = E;
 },
 {
-pos = (390,0);
+pos = (355,0);
 ref = brevecomb.case;
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (398,0);
+pos = (376,0);
 ref = brevecomb.case;
 }
 );
-width = 1362;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (374,0);
-ref = brevecomb.case;
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 unicode = 276;

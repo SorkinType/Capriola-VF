@@ -2,17 +2,30 @@
 glyphname = uhungarumlaut;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (169,-6);
+ref = hungarumlautcomb;
+}
+);
+width = 1357;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = u;
 },
 {
-pos = (180,0);
+pos = (163,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1372;
+width = 1318;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (180,0);
-ref = hungarumlautcomb;
-}
-);
-width = 1372;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (180,0);
+pos = (193,0);
 ref = hungarumlautcomb;
 }
 );

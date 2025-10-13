@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = Ihookabove;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (27,0);
+ref = hookabovecomb.case;
+}
+);
+width = 709;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,11 +21,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (34,405);
+pos = (4,0);
 ref = hookabovecomb.case;
 }
 );
-width = 683;
+width = 623;
 },
 {
 layerId = m002;
@@ -22,24 +34,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (34,405);
+pos = (34,0);
 ref = hookabovecomb.case;
 }
 );
 width = 683;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (34,405);
-ref = hookabovecomb.case;
-}
-);
-width = 703;
 }
 );
 unicode = 7880;

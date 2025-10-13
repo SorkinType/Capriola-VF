@@ -2,17 +2,30 @@
 glyphname = Emacron;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (433,0);
+ref = macroncomb.case;
+}
+);
+width = 1370;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = E;
 },
 {
-pos = (473,0);
+pos = (438,0);
 ref = macroncomb.case;
 }
 );
-width = 1354;
+width = 1284;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (481,0);
+pos = (462,0);
 ref = macroncomb.case;
 }
 );
-width = 1362;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (457,0);
-ref = macroncomb.case;
-}
-);
-width = 1338;
+width = 1351;
 }
 );
 unicode = 274;

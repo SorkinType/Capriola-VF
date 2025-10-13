@@ -2,17 +2,30 @@
 glyphname = Atilde;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (183,0);
+ref = tildecomb.case;
+}
+);
+width = 1547;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = A;
 },
 {
-pos = (195,0);
+pos = (221,0);
 ref = tildecomb.case;
 }
 );
-width = 1537;
+width = 1477;
 },
 {
 layerId = m002;
@@ -21,20 +34,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (195,0);
-ref = tildecomb.case;
-}
-);
-width = 1536;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (195,0);
+pos = (211,0);
 ref = tildecomb.case;
 }
 );
@@ -42,4 +42,10 @@ width = 1536;
 }
 );
 unicode = 195;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
 }

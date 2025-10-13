@@ -2,17 +2,30 @@
 glyphname = aeacute;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (725,0);
+ref = acutecomb;
+}
+);
+width = 1857;
+},
+{
 layerId = m001;
 shapes = (
 {
 ref = ae;
 },
 {
-pos = (599,0);
+pos = (725,0);
 ref = acutecomb;
 }
 );
-width = 1874;
+width = 1825;
 },
 {
 layerId = m002;
@@ -21,24 +34,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (599,0);
+pos = (729,0);
 ref = acutecomb;
 }
 );
-width = 1874;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = ae;
-},
-{
-pos = (599,0);
-ref = acutecomb;
-}
-);
-width = 1874;
+width = 1873;
 }
 );
 unicode = 509;

@@ -1,7 +1,19 @@
 {
-color = 9;
 glyphname = Ohorndotbelow;
 layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (571,0);
+ref = dotbelowcomb;
+}
+);
+width = 1724;
+},
 {
 layerId = m001;
 shapes = (
@@ -9,27 +21,14 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (598,0);
+pos = (568,0);
 ref = dotbelowcomb;
 }
 );
-width = 1709;
+width = 1649;
 },
 {
 layerId = m002;
-shapes = (
-{
-ref = Ohorn;
-},
-{
-pos = (598,0);
-ref = dotbelowcomb;
-}
-);
-width = 1709;
-},
-{
-layerId = m003;
 shapes = (
 {
 ref = Ohorn;

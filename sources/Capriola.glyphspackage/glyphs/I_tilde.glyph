@@ -2,6 +2,19 @@
 glyphname = Itilde;
 layers = (
 {
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-222,0);
+ref = tildecomb.case;
+}
+);
+width = 709;
+},
+{
 guides = (
 {
 angle = 90;
@@ -14,11 +27,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-231,0);
+pos = (-206,0);
 ref = tildecomb.case;
 }
 );
-width = 683;
+width = 623;
 },
 {
 guides = (
@@ -33,30 +46,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-231,0);
+pos = (-215,0);
 ref = tildecomb.case;
 }
 );
 width = 683;
-},
-{
-guides = (
-{
-angle = 90;
-pos = (-37,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (-231,0);
-ref = tildecomb.case;
-}
-);
-width = 703;
 }
 );
 unicode = 296;
