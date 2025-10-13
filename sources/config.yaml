@@ -74,8 +74,4 @@ stat:
       flags: 2
     - name: Bold
       value: 700
-    - name: Roman
-      value: 0
-      linkedValue: 1
-      flags: 2
 
