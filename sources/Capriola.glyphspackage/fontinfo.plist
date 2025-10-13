@@ -127087,7 +127087,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2020 The Familyname Project Authors https://github.com/SorkinType/Capriola-VF";
+value = "Copyright 2022 The Capriola Project Authors (https://github.com/SorkinType/Capriola-VF)";
 }
 );
 },
