@@ -19,7 +19,7 @@ width = 1198;
 guides = (
 {
 angle = 90;
-pos = (1192,0);
+pos = (1238,0);
 }
 );
 layerId = m001;
@@ -39,7 +39,7 @@ width = 1106;
 guides = (
 {
 angle = 90;
-pos = (2082,0);
+pos = (2192,0);
 }
 );
 layerId = m002;

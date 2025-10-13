@@ -24,9 +24,11 @@ pos = (471,0);
 layerId = m001;
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (275,0);
 ref = tildecomb.case;
 }

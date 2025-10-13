@@ -18,9 +18,11 @@ width = 1735;
 layerId = m001;
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (398,0);
 ref = dieresiscomb.case;
 }
