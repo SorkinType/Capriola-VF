@@ -63,6 +63,23 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = m002;
+},
+{
+name = "meta Table";
+value = (
+{
+data = latn;
+tag = dlng;
+},
+{
+data = latn;
+tag = slng;
+}
+);
 }
 );
 date = "2025-10-14 03:05:02 +0000";
@@ -362,6 +379,15 @@ value = 977;
 {
 name = superscriptYSize;
 value = 1331;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 guides = (
@@ -730,6 +756,15 @@ value = 977;
 {
 name = superscriptYSize;
 value = 1331;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 guides = (
@@ -1095,6 +1130,15 @@ value = 977;
 {
 name = superscriptYSize;
 value = 1331;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 guides = (
