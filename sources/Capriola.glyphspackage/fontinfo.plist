@@ -24,10 +24,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = uniqueID;
-value = "ViktoriyaGrabowska: Capriola Regular: 2012";
-},
-{
 name = fsType;
 value = (
 );
@@ -53,10 +49,6 @@ name = trademarks;
 value = "Capriola is a trademark of Sorkin Type Co.";
 },
 {
-name = year;
-value = 2012;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 },
@@ -73,7 +65,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2025-10-14 02:48:52 +0000";
+date = "2025-10-14 03:05:02 +0000";
 familyName = Capriola;
 featurePrefixes = (
 {
@@ -127087,7 +127079,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Project Authors ( https://github.com/SorkinType/Capriola-VF )";
+value = "Copyright 2025 The Capriola Project Authors ( https://github.com/SorkinType/Capriola-VF )";
 }
 );
 },
