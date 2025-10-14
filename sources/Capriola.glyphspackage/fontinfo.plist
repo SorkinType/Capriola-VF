@@ -73,7 +73,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2025-10-07 12:51:08 +0000";
+date = "2025-10-14 02:48:52 +0000";
 familyName = Capriola;
 featurePrefixes = (
 {
@@ -127087,7 +127087,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022 The Capriola Project Authors (https://github.com/SorkinType/Capriola-VF)";
+value = "Copyright 2025 The Project Authors ( https://github.com/SorkinType/Capriola-VF )";
 }
 );
 },
