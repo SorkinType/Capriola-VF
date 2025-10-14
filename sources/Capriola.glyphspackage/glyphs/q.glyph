@@ -479,4 +479,7 @@ width = 1377;
 );
 metricLeft = "=o";
 unicode = 113;
+userData = {
+KernOnName = q;
+};
 }
