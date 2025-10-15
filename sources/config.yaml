@@ -1,6 +1,7 @@
 sources:
   - Capriola.glyphspackage
 familyName: "Capriola"
+cleanUp: true
 stat:
   Capriola[wght].ttf:
   - name: Weight
