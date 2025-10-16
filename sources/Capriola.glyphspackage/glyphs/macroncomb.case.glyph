@@ -37,39 +37,27 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(639,1678,l),
-(639,1961,l),
-(-46,1961,l),
-(-46,1678,l)
+(530,1678,ls),
+(595,1678,o),
+(639,1726,o),
+(639,1789,cs),
+(639,1850,ls),
+(639,1913,o),
+(595,1961,o),
+(530,1961,cs),
+(63,1961,ls),
+(-2,1961,o),
+(-46,1913,o),
+(-46,1850,cs),
+(-46,1789,ls),
+(-46,1726,o),
+(-2,1678,o),
+(63,1678,cs)
 );
 }
 );
@@ -111,39 +99,27 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(534,1749,l),
-(534,1920,l),
-(-21,1920,l),
-(-21,1749,l)
+(491,1749,ls),
+(522,1749,o),
+(534,1767,o),
+(534,1801,cs),
+(534,1868,ls),
+(534,1902,o),
+(522,1920,o),
+(491,1920,cs),
+(22,1920,ls),
+(-9,1920,o),
+(-21,1902,o),
+(-21,1868,cs),
+(-21,1801,ls),
+(-21,1767,o),
+(-9,1749,o),
+(22,1749,cs)
 );
 }
 );
@@ -185,39 +161,27 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(559,1714,l),
-(559,1931,l),
-(-46,1931,l),
-(-46,1714,l)
+(504,1714,ls),
+(534,1714,o),
+(559,1743,o),
+(559,1778,cs),
+(559,1867,ls),
+(559,1902,o),
+(534,1931,o),
+(504,1931,cs),
+(9,1931,ls),
+(-21,1931,o),
+(-46,1902,o),
+(-46,1867,cs),
+(-46,1778,ls),
+(-46,1743,o),
+(-21,1714,o),
+(9,1714,cs)
 );
 }
 );

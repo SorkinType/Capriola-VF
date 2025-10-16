@@ -52,30 +52,6 @@ pos = (250,17);
 pos = (1225,565);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (1,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,3);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
@@ -86,10 +62,22 @@ ref = equal;
 {
 closed = 1;
 nodes = (
-(1039,1077,l),
-(796,1190,l),
-(267,53,l),
-(510,-60,l)
+(993,978,ls),
+(1020,1037,o),
+(995,1097,o),
+(938,1124,cs),
+(897,1143,ls),
+(840,1170,o),
+(777,1150,o),
+(750,1091,cs),
+(313,152,ls),
+(286,93,o),
+(311,33,o),
+(368,6,cs),
+(409,-13,ls),
+(466,-40,o),
+(529,-20,o),
+(556,39,cs)
 );
 }
 );
@@ -142,30 +130,6 @@ angle = 60.0092;
 pos = (234,0);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (1,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,3);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
@@ -175,10 +139,22 @@ ref = equal;
 {
 closed = 1;
 nodes = (
-(1045,1090,l),
-(909,1169,l),
-(257,39,l),
-(393,-40,l)
+(1024,1053,ls),
+(1039,1080,o),
+(1030,1099,o),
+(1000,1116,cs),
+(954,1143,ls),
+(925,1160,o),
+(903,1158,o),
+(887,1132,cs),
+(278,76,ls),
+(263,49,o),
+(272,30,o),
+(302,13,cs),
+(348,-14,ls),
+(377,-31,o),
+(399,-29,o),
+(415,-3,cs)
 );
 }
 );
@@ -231,30 +207,6 @@ angle = 60.0092;
 pos = (210,0);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (1,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,3);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -264,10 +216,22 @@ ref = equal;
 {
 closed = 1;
 nodes = (
-(1073,1070,l),
-(889,1176,l),
-(244,59,l),
-(428,-47,l)
+(1045,1022,ls),
+(1060,1048,o),
+(1048,1085,o),
+(1017,1102,cs),
+(944,1144,ls),
+(914,1162,o),
+(877,1154,o),
+(862,1128,cs),
+(272,107,ls),
+(257,81,o),
+(269,44,o),
+(300,27,cs),
+(373,-15,ls),
+(403,-33,o),
+(440,-25,o),
+(455,1,cs)
 );
 }
 );

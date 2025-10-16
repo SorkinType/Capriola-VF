@@ -117,39 +117,27 @@ angle = 144.88;
 pos = (363,68);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1671,1440,l),
-(1425,1613,l),
-(352,83,l),
-(598,-90,l)
+(1607,1349,ls),
+(1643,1401,o),
+(1635,1465,o),
+(1582,1503,cs),
+(1514,1550,ls),
+(1461,1588,o),
+(1397,1574,o),
+(1361,1522,cs),
+(416,174,ls),
+(380,122,o),
+(388,58,o),
+(441,20,cs),
+(509,-27,ls),
+(562,-65,o),
+(626,-51,o),
+(662,1,cs)
 );
 },
 {
@@ -341,39 +329,27 @@ angle = 144.88;
 pos = (375,59);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (0,2);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(1559,1511,l),
-(1428,1603,l),
-(355,73,l),
-(486,-19,l)
+(1529,1468,ls),
+(1549,1496,o),
+(1549,1518,o),
+(1524,1536,cs),
+(1463,1578,ls),
+(1438,1596,o),
+(1418,1588,o),
+(1398,1560,cs),
+(385,116,ls),
+(365,88,o),
+(365,66,o),
+(390,48,cs),
+(451,6,ls),
+(476,-12,o),
+(496,-4,o),
+(516,24,cs)
 );
 },
 {
@@ -559,39 +535,27 @@ angle = 144.88;
 pos = (375,60);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(1595,1490,l),
-(1439,1600,l),
-(366,70,l),
-(522,-40,l)
+(1558,1438,ls),
+(1578,1466,o),
+(1575,1504,o),
+(1550,1522,cs),
+(1484,1568,ls),
+(1459,1586,o),
+(1422,1576,o),
+(1402,1547,cs),
+(403,122,ls),
+(383,94,o),
+(386,56,o),
+(411,38,cs),
+(477,-8,ls),
+(502,-26,o),
+(539,-16,o),
+(559,13,cs)
 );
 },
 {
