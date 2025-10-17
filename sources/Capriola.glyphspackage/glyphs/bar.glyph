@@ -1,40 +1,29 @@
 {
+color = 6;
 glyphname = bar;
 layers = (
 {
-hints = (
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(538,-357,l),
-(538,1865,l),
-(245,1865,l),
-(245,-357,l)
+(429,-357,ls),
+(494,-357,o),
+(538,-309,o),
+(538,-246,cs),
+(538,1754,ls),
+(538,1817,o),
+(494,1865,o),
+(429,1865,cs),
+(354,1865,ls),
+(289,1865,o),
+(245,1817,o),
+(245,1754,cs),
+(245,-246,ls),
+(245,-309,o),
+(289,-357,o),
+(354,-357,cs)
 );
 }
 );
@@ -66,39 +55,27 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(388,-298,l),
-(388,1874,l),
-(235,1874,l),
-(235,-298,l)
+(345,-298,ls),
+(376,-298,o),
+(388,-280,o),
+(388,-246,cs),
+(388,1822,ls),
+(388,1856,o),
+(376,1874,o),
+(345,1874,cs),
+(278,1874,ls),
+(247,1874,o),
+(235,1856,o),
+(235,1822,cs),
+(235,-246,ls),
+(235,-280,o),
+(247,-298,o),
+(278,-298,cs)
 );
 }
 );
@@ -130,39 +107,27 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(445,-321,l),
-(445,1897,l),
-(235,1897,l),
-(235,-321,l)
+(390,-321,ls),
+(420,-321,o),
+(445,-292,o),
+(445,-257,cs),
+(445,1833,ls),
+(445,1868,o),
+(420,1897,o),
+(390,1897,cs),
+(290,1897,ls),
+(260,1897,o),
+(235,1868,o),
+(235,1833,cs),
+(235,-257,ls),
+(235,-292,o),
+(260,-321,o),
+(290,-321,cs)
 );
 }
 );

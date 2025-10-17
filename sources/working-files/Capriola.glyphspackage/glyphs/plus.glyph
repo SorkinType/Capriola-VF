@@ -1,0 +1,332 @@
+{
+color = 6;
+glyphname = plus;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(779,25,ls),
+(831,25,o),
+(872,64,o),
+(872,115,cs),
+(872,458,l),
+(1225,458,ls),
+(1277,458,o),
+(1321,495,o),
+(1321,548,cs),
+(1321,629,ls),
+(1321,680,o),
+(1277,716,o),
+(1225,716,cs),
+(872,716,l),
+(872,1054,ls),
+(872,1103,o),
+(831,1143,o),
+(784,1143,cs),
+(680,1143,ls),
+(632,1143,o),
+(591,1103,o),
+(591,1054,cs),
+(591,716,l),
+(237,716,ls),
+(186,716,o),
+(142,680,o),
+(142,634,cs),
+(142,542,ls),
+(142,495,o),
+(186,458,o),
+(237,458,cs),
+(591,458,l),
+(591,115,ls),
+(591,64,o),
+(632,25,o),
+(686,25,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,6);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 1;
+nodes = (
+(837,25,l),
+(837,453,l),
+(1246,453,l),
+(1246,721,l),
+(837,721,l),
+(837,1143,l),
+(531,1143,l),
+(531,721,l),
+(122,721,l),
+(122,453,l),
+(531,453,l),
+(531,25,l)
+);
+}
+);
+width = 1368;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(761,86,l),
+(761,525,l),
+(1211,525,l),
+(1211,683,l),
+(761,683,l),
+(761,1115,l),
+(581,1115,l),
+(581,683,l),
+(131,683,l),
+(131,525,l),
+(581,525,l),
+(581,86,l)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,6);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(721,86,l),
+(721,525,l),
+(1131,525,l),
+(1131,683,l),
+(721,683,l),
+(721,1115,l),
+(541,1115,l),
+(541,683,l),
+(131,683,l),
+(131,525,l),
+(541,525,l),
+(541,86,l)
+);
+}
+);
+width = 1262;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(729,61,ls),
+(760,61,o),
+(782,86,o),
+(782,117,cs),
+(782,508,l),
+(1175,508,ls),
+(1206,508,o),
+(1231,530,o),
+(1231,563,cs),
+(1231,647,ls),
+(1231,678,o),
+(1206,700,o),
+(1175,700,cs),
+(782,700,l),
+(782,1085,ls),
+(782,1115,o),
+(760,1140,o),
+(734,1140,cs),
+(630,1140,ls),
+(603,1140,o),
+(581,1115,o),
+(581,1085,cs),
+(581,700,l),
+(187,700,ls),
+(157,700,o),
+(132,678,o),
+(132,652,cs),
+(132,557,ls),
+(132,530,o),
+(157,508,o),
+(187,508,cs),
+(581,508,l),
+(581,117,ls),
+(581,86,o),
+(603,61,o),
+(636,61,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,6);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,9);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(824,61,l),
+(824,498,l),
+(1261,498,l),
+(1261,710,l),
+(824,710,l),
+(824,1140,l),
+(579,1140,l),
+(579,710,l),
+(142,710,l),
+(142,498,l),
+(579,498,l),
+(579,61,l)
+);
+}
+);
+width = 1403;
+}
+);
+metricRight = "=|";
+unicode = 43;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

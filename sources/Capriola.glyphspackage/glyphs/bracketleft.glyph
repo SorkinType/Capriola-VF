@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 6;
 glyphname = bracketleft;
 layers = (
 {
@@ -38,54 +38,37 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,7);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,4);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(797,-357,l),
-(797,-114,l),
+(688,-357,ls),
+(753,-357,o),
+(797,-309,o),
+(797,-246,cs),
+(797,-225,ls),
+(797,-162,o),
+(753,-114,o),
+(688,-114,cs),
 (497,-114,l),
 (497,1621,l),
-(797,1621,l),
-(797,1865,l),
-(207,1865,l),
-(207,-357,l)
+(688,1621,ls),
+(753,1621,o),
+(797,1669,o),
+(797,1732,cs),
+(797,1754,ls),
+(797,1817,o),
+(753,1865,o),
+(688,1865,cs),
+(316,1865,ls),
+(251,1865,o),
+(207,1817,o),
+(207,1754,cs),
+(207,-246,ls),
+(207,-309,o),
+(251,-357,o),
+(316,-357,cs)
 );
 }
 );
@@ -127,54 +110,37 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,7);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,4);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(662,-298,l),
-(662,-167,l),
+(619,-298,ls),
+(650,-298,o),
+(662,-280,o),
+(662,-246,cs),
+(662,-219,ls),
+(662,-185,o),
+(650,-167,o),
+(619,-167,cs),
 (362,-167,l),
 (362,1742,l),
-(662,1742,l),
-(662,1874,l),
-(202,1874,l),
-(202,-298,l)
+(619,1742,ls),
+(650,1742,o),
+(662,1760,o),
+(662,1794,cs),
+(662,1822,ls),
+(662,1856,o),
+(650,1874,o),
+(619,1874,cs),
+(245,1874,ls),
+(214,1874,o),
+(202,1856,o),
+(202,1822,cs),
+(202,-246,ls),
+(202,-280,o),
+(214,-298,o),
+(245,-298,cs)
 );
 }
 );
@@ -216,54 +182,37 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,7);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,4);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(717,-321,l),
-(717,-144,l),
+(662,-321,ls),
+(692,-321,o),
+(717,-292,o),
+(717,-257,cs),
+(717,-208,ls),
+(717,-173,o),
+(692,-144,o),
+(662,-144,cs),
 (417,-144,l),
 (417,1719,l),
-(717,1719,l),
-(717,1897,l),
-(207,1897,l),
-(207,-321,l)
+(662,1719,ls),
+(692,1719,o),
+(717,1748,o),
+(717,1783,cs),
+(717,1833,ls),
+(717,1868,o),
+(692,1897,o),
+(662,1897,cs),
+(262,1897,ls),
+(232,1897,o),
+(207,1868,o),
+(207,1833,cs),
+(207,-257,ls),
+(207,-292,o),
+(232,-321,o),
+(262,-321,cs)
 );
 }
 );

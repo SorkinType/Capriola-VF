@@ -1,4 +1,5 @@
 {
+color = 6;
 glyphname = Thorn;
 layers = (
 {
@@ -54,36 +55,15 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,12);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(530,0,l),
+(421,0,ls),
+(486,0,o),
+(530,48,o),
+(530,111,cs),
 (530,199,l),
 (582,193,o),
 (626,189,o),
@@ -95,9 +75,18 @@ nodes = (
 (1092,1306,o),
 (711,1306,cs),
 (530,1306,l),
-(530,1533,l),
-(199,1533,l),
-(199,0,l)
+(530,1422,ls),
+(530,1485,o),
+(486,1533,o),
+(421,1533,cs),
+(308,1533,ls),
+(243,1533,o),
+(199,1485,o),
+(199,1422,cs),
+(199,111,ls),
+(199,48,o),
+(243,0,o),
+(308,0,cs)
 );
 },
 {
@@ -172,36 +161,15 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,12);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(407,0,l),
+(364,0,ls),
+(395,0,o),
+(407,18,o),
+(407,52,cs),
 (407,236,l),
 (493,225,o),
 (546,215,o),
@@ -213,9 +181,18 @@ nodes = (
 (1014,1290,o),
 (665,1290,cs),
 (407,1290,l),
-(407,1533,l),
-(216,1533,l),
-(216,0,l)
+(407,1481,ls),
+(407,1515,o),
+(395,1533,o),
+(364,1533,cs),
+(259,1533,ls),
+(228,1533,o),
+(216,1515,o),
+(216,1481,cs),
+(216,52,ls),
+(216,18,o),
+(228,0,o),
+(259,0,cs)
 );
 },
 {
@@ -290,36 +267,15 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,12);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(474,0,l),
+(419,0,ls),
+(449,0,o),
+(474,29,o),
+(474,64,cs),
 (474,257,l),
 (537,249,o),
 (594,242,o),
@@ -331,9 +287,18 @@ nodes = (
 (1064,1338,o),
 (698,1338,cs),
 (474,1338,l),
-(474,1533,l),
-(223,1533,l),
-(223,0,l)
+(474,1469,ls),
+(474,1504,o),
+(449,1533,o),
+(419,1533,cs),
+(278,1533,ls),
+(248,1533,o),
+(223,1504,o),
+(223,1469,cs),
+(223,64,ls),
+(223,29,o),
+(248,0,o),
+(278,0,cs)
 );
 },
 {

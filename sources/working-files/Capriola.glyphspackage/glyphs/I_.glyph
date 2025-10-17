@@ -1,0 +1,243 @@
+{
+color = 6;
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (355,0);
+},
+{
+name = ogonek;
+pos = (628,10);
+},
+{
+name = top;
+pos = (355,1533);
+},
+{
+name = topleft;
+pos = (33,1533);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(552,0,o),
+(577,29,o),
+(577,64,cs),
+(577,1469,ls),
+(577,1504,o),
+(552,1533,o),
+(522,1533,cs),
+(262,1533,ls),
+(231,1533,o),
+(206,1504,o),
+(206,1469,cs),
+(206,64,ls),
+(206,29,o),
+(231,0,o),
+(261,0,cs),
+(521,0,ls)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,0,l),
+(520,1533,l),
+(189,1533,l),
+(189,0,l)
+);
+}
+);
+width = 709;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = ogonek;
+pos = (585,10);
+},
+{
+name = top;
+pos = (312,1533);
+},
+{
+name = topleft;
+pos = (-10,1533);
+}
+);
+background = {
+hints = (
+{
+name = _corner.round;
+type = Corner;
+},
+{
+name = _corner.round;
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+type = Corner;
+}
+);
+shapes = (
+{
+ref = H;
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(407,0,l),
+(407,1533,l),
+(216,1533,l),
+(216,0,l)
+);
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = ogonek;
+pos = (615,10);
+},
+{
+name = top;
+pos = (342,1533);
+},
+{
+name = topleft;
+pos = (20,1533);
+}
+);
+guides = (
+{
+pos = (278,64);
+},
+{
+angle = 180;
+pos = (343,1469);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(467,0,l),
+(467,1533,l),
+(216,1533,l),
+(216,0,l)
+);
+}
+);
+width = 683;
+}
+);
+metricRight = "=|";
+unicode = 73;
+userData = {
+KernOnName = I;
+};
+}

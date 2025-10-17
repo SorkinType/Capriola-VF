@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 6;
 glyphname = R;
 layers = (
 {
@@ -125,25 +125,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,27);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,28);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,29);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
@@ -176,9 +157,18 @@ nodes = (
 (1390,1389,o),
 (1130,1533,o),
 (760,1533,cs),
-(199,1533,l),
-(199,0,l),
-(514,0,l),
+(308,1533,ls),
+(243,1533,o),
+(199,1485,o),
+(199,1422,cs),
+(199,111,ls),
+(199,48,o),
+(243,0,o),
+(308,0,cs),
+(405,0,ls),
+(470,0,o),
+(514,48,o),
+(514,111,cs),
 (514,572,l),
 (559,490,o),
 (596,431,o),
@@ -329,25 +319,6 @@ angle = 90;
 pos = (713,0);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (0,27);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,28);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,29);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
@@ -380,9 +351,18 @@ nodes = (
 (1265,1407,o),
 (1044,1533,o),
 (686,1533,cs),
-(216,1533,l),
-(216,0,l),
-(398,0,l),
+(259,1533,ls),
+(228,1533,o),
+(216,1515,o),
+(216,1481,cs),
+(216,52,ls),
+(216,18,o),
+(228,0,o),
+(259,0,cs),
+(355,0,ls),
+(386,0,o),
+(398,18,o),
+(398,52,cs),
 (398,622,l),
 (436,584,o),
 (495,515,o),
@@ -519,25 +499,6 @@ angle = 90;
 pos = (752,0);
 }
 );
-hints = (
-{
-name = _corner.round;
-origin = (0,28);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,29);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,27);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -570,9 +531,18 @@ nodes = (
 (1343,1402,o),
 (1106,1533,o),
 (748,1533,cs),
-(223,1533,l),
-(223,0,l),
-(472,0,l),
+(278,1533,ls),
+(248,1533,o),
+(223,1504,o),
+(223,1469,cs),
+(223,64,ls),
+(223,29,o),
+(248,0,o),
+(278,0,cs),
+(417,0,ls),
+(447,0,o),
+(472,29,o),
+(472,64,cs),
 (472,576,l),
 (512,540,o),
 (562,474,o),

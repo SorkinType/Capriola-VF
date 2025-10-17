@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 6;
 glyphname = germandbls;
 layers = (
 {
@@ -97,19 +97,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,21);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,22);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
@@ -136,8 +123,14 @@ nodes = (
 (326,1780,o),
 (206,1486,o),
 (206,1112,cs),
-(206,0,l),
-(523,0,l),
+(206,111,ls),
+(206,48,o),
+(250,0,o),
+(315,0,cs),
+(414,0,ls),
+(479,0,o),
+(523,48,o),
+(523,111,cs),
 (523,1138,ls),
 (523,1367,o),
 (578,1510,o),
@@ -343,19 +336,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,21);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,22);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
@@ -382,8 +362,14 @@ nodes = (
 (455,1730,o),
 (235,1559,o),
 (235,1091,cs),
-(235,0,l),
-(415,0,l),
+(235,52,ls),
+(235,18,o),
+(247,0,o),
+(278,0,cs),
+(372,0,ls),
+(403,0,o),
+(415,18,o),
+(415,52,cs),
 (415,1107,ls),
 (415,1369,o),
 (482,1572,o),
@@ -430,19 +416,6 @@ nodes = (
 width = 1463;
 },
 {
-hints = (
-{
-name = _corner.round;
-origin = (0,21);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,22);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -469,8 +442,14 @@ nodes = (
 (338,1780,o),
 (235,1503,o),
 (235,1116,cs),
-(235,0,l),
-(479,0,l),
+(235,64,ls),
+(235,29,o),
+(260,0,o),
+(290,0,cs),
+(424,0,ls),
+(454,0,o),
+(479,29,o),
+(479,64,cs),
 (479,1132,ls),
 (479,1388,o),
 (541,1560,o),

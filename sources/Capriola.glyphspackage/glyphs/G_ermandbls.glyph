@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 6;
 glyphname = Germandbls;
 layers = (
 {
@@ -112,25 +112,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,15);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
@@ -148,10 +129,19 @@ nodes = (
 (1414,1418,cs),
 (1414,1495,o),
 (1363,1533,o),
-(1297,1533,c),
-(199,1533,l),
-(199,0,l),
-(530,0,l),
+(1297,1533,cs),
+(308,1533,ls),
+(243,1533,o),
+(199,1485,o),
+(199,1422,cs),
+(199,111,ls),
+(199,48,o),
+(243,0,o),
+(308,0,cs),
+(421,0,ls),
+(486,0,o),
+(530,48,o),
+(530,111,cs),
 (530,1262,l),
 (898,1262,ls),
 (949,1262,o),
@@ -346,25 +336,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,15);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
@@ -383,9 +354,18 @@ nodes = (
 (1303,1513,o),
 (1283,1533,o),
 (1252,1533,cs),
-(216,1533,l),
-(216,0,l),
-(407,0,l),
+(259,1533,ls),
+(228,1533,o),
+(216,1515,o),
+(216,1481,cs),
+(216,52,ls),
+(216,18,o),
+(228,0,o),
+(259,0,cs),
+(364,0,ls),
+(395,0,o),
+(407,18,o),
+(407,52,cs),
 (407,1362,l),
 (852,1362,ls),
 (942,1362,o),
@@ -566,25 +546,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,15);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,13);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -603,9 +564,18 @@ nodes = (
 (1402,1512,o),
 (1371,1533,o),
 (1327,1533,cs),
-(223,1533,l),
-(223,0,l),
-(474,0,l),
+(278,1533,ls),
+(248,1533,o),
+(223,1504,o),
+(223,1469,cs),
+(223,64,ls),
+(223,29,o),
+(248,0,o),
+(278,0,cs),
+(419,0,ls),
+(449,0,o),
+(474,29,o),
+(474,64,cs),
 (474,1312,l),
 (872,1312,ls),
 (968,1312,o),

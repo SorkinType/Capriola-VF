@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = abrevehookabove;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (227,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 1199;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (228,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 1135;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (255,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 7859;
+}

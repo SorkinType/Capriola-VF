@@ -1,4 +1,5 @@
 {
+color = 6;
 glyphname = plus;
 layers = (
 {
@@ -47,69 +48,47 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,8);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,9);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-}
-);
 layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
 shapes = (
 {
 closed = 1;
 nodes = (
-(837,25,l),
+(728,25,ls),
+(793,25,o),
+(837,73,o),
+(837,136,cs),
 (837,453,l),
-(1246,453,l),
-(1246,721,l),
+(1137,453,ls),
+(1202,453,o),
+(1246,501,o),
+(1246,564,cs),
+(1246,610,ls),
+(1246,673,o),
+(1202,721,o),
+(1137,721,cs),
 (837,721,l),
-(837,1143,l),
-(531,1143,l),
+(837,1032,ls),
+(837,1095,o),
+(793,1143,o),
+(728,1143,cs),
+(640,1143,ls),
+(575,1143,o),
+(531,1095,o),
+(531,1032,cs),
 (531,721,l),
-(122,721,l),
-(122,453,l),
+(231,721,ls),
+(166,721,o),
+(122,673,o),
+(122,610,cs),
+(122,564,ls),
+(122,501,o),
+(166,453,o),
+(231,453,cs),
 (531,453,l),
-(531,25,l)
+(531,136,ls),
+(531,73,o),
+(575,25,o),
+(640,25,cs)
 );
 }
 );
@@ -137,69 +116,47 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,8);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,9);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-}
-);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
-(721,86,l),
+(678,86,ls),
+(709,86,o),
+(721,104,o),
+(721,138,cs),
 (721,525,l),
-(1131,525,l),
-(1131,683,l),
+(1088,525,ls),
+(1119,525,o),
+(1131,543,o),
+(1131,577,cs),
+(1131,631,ls),
+(1131,665,o),
+(1119,683,o),
+(1088,683,cs),
 (721,683,l),
-(721,1115,l),
-(541,1115,l),
+(721,1063,ls),
+(721,1097,o),
+(709,1115,o),
+(678,1115,cs),
+(584,1115,ls),
+(553,1115,o),
+(541,1097,o),
+(541,1063,cs),
 (541,683,l),
-(131,683,l),
-(131,525,l),
+(174,683,ls),
+(143,683,o),
+(131,665,o),
+(131,631,cs),
+(131,577,ls),
+(131,543,o),
+(143,525,o),
+(174,525,cs),
 (541,525,l),
-(541,86,l)
+(541,138,ls),
+(541,104,o),
+(553,86,o),
+(584,86,cs)
 );
 }
 );
@@ -251,69 +208,47 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.round;
-origin = (0,6);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,8);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,9);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,11);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,0);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,2);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,3);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(824,61,l),
+(769,61,ls),
+(799,61,o),
+(824,90,o),
+(824,125,cs),
 (824,498,l),
-(1261,498,l),
-(1261,710,l),
+(1206,498,ls),
+(1236,498,o),
+(1261,527,o),
+(1261,562,cs),
+(1261,646,ls),
+(1261,681,o),
+(1236,710,o),
+(1206,710,cs),
 (824,710,l),
-(824,1140,l),
-(579,1140,l),
+(824,1076,ls),
+(824,1111,o),
+(799,1140,o),
+(769,1140,cs),
+(634,1140,ls),
+(604,1140,o),
+(579,1111,o),
+(579,1076,cs),
 (579,710,l),
-(142,710,l),
-(142,498,l),
+(197,710,ls),
+(167,710,o),
+(142,681,o),
+(142,646,cs),
+(142,562,ls),
+(142,527,o),
+(167,498,o),
+(197,498,cs),
 (579,498,l),
-(579,61,l)
+(579,125,ls),
+(579,90,o),
+(604,61,o),
+(634,61,cs)
 );
 }
 );

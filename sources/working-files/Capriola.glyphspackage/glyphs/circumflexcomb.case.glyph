@@ -1,0 +1,350 @@
+{
+color = 6;
+glyphname = circumflexcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (449,1533);
+},
+{
+name = top;
+pos = (449,1969);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,1623,o),
+(214,1628,o),
+(231,1641,cs),
+(449,1812,l),
+(667,1641,ls),
+(684,1628,o),
+(696,1623,o),
+(711,1623,cs),
+(726,1623,o),
+(742,1626,o),
+(754,1638,cs),
+(813,1697,ls),
+(829,1713,o),
+(835,1721,o),
+(835,1740,cs),
+(835,1756,o),
+(826,1775,o),
+(814,1786,cs),
+(609,1977,ls),
+(579,2005,o),
+(545,2027,o),
+(508,2027,cs),
+(390,2027,ls),
+(353,2027,o),
+(319,2005,o),
+(289,1977,cs),
+(84,1786,ls),
+(72,1775,o),
+(63,1756,o),
+(63,1740,cs),
+(63,1721,o),
+(69,1713,o),
+(85,1697,cs),
+(144,1638,ls),
+(156,1626,o),
+(172,1623,o),
+(187,1623,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.round;
+origin = (0,12);
+scale = (-0.8,0.8);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+scale = (0.8,0.8);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (0.8,0.8);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+scale = (-0.8,0.8);
+type = Corner;
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 1;
+nodes = (
+(449,1825,l),
+(720,1612,l),
+(861,1762,l),
+(614,1990,ls),
+(584,2018,o),
+(545,2040,o),
+(498,2040,cs),
+(400,2040,ls),
+(353,2040,o),
+(314,2018,o),
+(284,1990,cs),
+(37,1762,l),
+(178,1612,l)
+);
+}
+);
+width = 886;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (431,1533);
+},
+{
+name = top;
+pos = (431,1982);
+}
+);
+background = {
+hints = (
+{
+name = _corner.round;
+origin = (0,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,12);
+scale = (-1,1);
+type = Corner;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1840,l),
+(698,1650,l),
+(775,1741,l),
+(533,1971,ls),
+(516,1987,o),
+(498,2000,o),
+(472,2000,cs),
+(390,2000,ls),
+(364,2000,o),
+(346,1987,o),
+(329,1971,cs),
+(87,1741,l),
+(164,1650,l)
+);
+}
+);
+};
+guides = (
+{
+pos = (0,1656);
+},
+{
+angle = 90;
+pos = (421,0);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,11);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,12);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1859,l),
+(698,1667,l),
+(775,1754,l),
+(523,1978,ls),
+(505,1994,o),
+(488,2007,o),
+(462,2007,cs),
+(400,2007,ls),
+(374,2007,o),
+(357,1994,o),
+(339,1978,cs),
+(87,1754,l),
+(164,1667,l)
+);
+}
+);
+width = 853;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (431,1533);
+},
+{
+name = top;
+pos = (431,1982);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,1645,o),
+(179,1651,o),
+(191,1660,cs),
+(431,1829,l),
+(671,1660,ls),
+(683,1651,o),
+(692,1645,o),
+(703,1645,cs),
+(714,1645,o),
+(725,1649,o),
+(738,1663,cs),
+(784,1711,ls),
+(802,1730,o),
+(807,1741,o),
+(807,1751,cs),
+(807,1762,o),
+(802,1770,o),
+(794,1777,cs),
+(576,1980,ls),
+(552,2003,o),
+(525,2025,o),
+(490,2025,cs),
+(372,2025,ls),
+(337,2025,o),
+(310,2003,o),
+(286,1980,cs),
+(68,1777,ls),
+(60,1770,o),
+(55,1762,o),
+(55,1751,cs),
+(55,1741,o),
+(60,1730,o),
+(78,1711,cs),
+(124,1663,ls),
+(137,1649,o),
+(148,1645,o),
+(159,1645,cs)
+);
+}
+);
+};
+guides = (
+{
+pos = (0,1656);
+},
+{
+angle = 90;
+pos = (421,0);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,12);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,11);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1829,l),
+(707,1645,l),
+(809,1774,l),
+(576,1985,ls),
+(550,2008,o),
+(525,2025,o),
+(480,2025,cs),
+(382,2025,ls),
+(337,2025,o),
+(312,2008,o),
+(286,1985,cs),
+(53,1774,l),
+(155,1645,l)
+);
+}
+);
+width = 853;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}
