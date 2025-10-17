@@ -132889,7 +132889,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Capriola Project Authors ( https://github.com/SorkinType/Capriola-VF )";
+value = "Copyright 2025 The Capriola Project Authors (https://github.com/SorkinType/Capriola-VF)";
 }
 );
 },
