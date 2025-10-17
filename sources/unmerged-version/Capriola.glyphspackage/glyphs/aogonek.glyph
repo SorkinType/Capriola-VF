@@ -1,0 +1,58 @@
+{
+color = 10;
+glyphname = aogonek;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (554,0);
+ref = ogonekcomb;
+}
+);
+width = 1199;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (1091,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (583,0);
+ref = ogonekcomb;
+}
+);
+width = 1135;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (1091,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (603,0);
+ref = ogonekcomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 261;
+}

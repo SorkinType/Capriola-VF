@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 0;
+},
+{
+layerId = m001;
+width = 0;
+},
+{
+layerId = m002;
+width = 0;
+}
+);
+metricWidth = "=0";
+unicode = 8203;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

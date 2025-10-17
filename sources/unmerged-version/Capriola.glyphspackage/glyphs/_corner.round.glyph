@@ -1,0 +1,94 @@
+{
+color = 6;
+export = 0;
+glyphname = _corner.round;
+layers = (
+{
+anchors = (
+{
+name = left;
+pos = (39,52);
+},
+{
+name = origin;
+pos = (39,0);
+},
+{
+name = right;
+pos = (82,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 0;
+nodes = (
+(39,52,l),
+(39,18,o),
+(51,0,o),
+(82,0,cs)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = left;
+pos = (39,64);
+},
+{
+name = origin;
+pos = (39,0);
+},
+{
+name = right;
+pos = (94,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 0;
+nodes = (
+(39,64,ls),
+(39,29,o),
+(64,0,o),
+(94,0,cs)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = left;
+pos = (39,111);
+},
+{
+name = origin;
+pos = (39,0);
+},
+{
+name = right;
+pos = (148,0);
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 0;
+nodes = (
+(39,111,l),
+(39,48,o),
+(83,0,o),
+(148,0,cs)
+);
+}
+);
+width = 400;
+}
+);
+}

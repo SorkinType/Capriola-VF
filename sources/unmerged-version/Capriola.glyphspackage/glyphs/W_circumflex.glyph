@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = Wcircumflex;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (687,-22);
+ref = circumflexcomb.case;
+}
+);
+width = 2279;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (583,0);
+ref = circumflexcomb.case;
+}
+);
+width = 2027;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (595,0);
+ref = circumflexcomb.case;
+}
+);
+width = 2052;
+}
+);
+unicode = 372;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
+}

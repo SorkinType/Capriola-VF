@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = rcaron;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (46,0);
+ref = caroncomb;
+}
+);
+width = 927;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (45,0);
+ref = caroncomb;
+}
+);
+width = 818;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (72,0);
+ref = caroncomb;
+}
+);
+width = 878;
+}
+);
+unicode = 345;
+}

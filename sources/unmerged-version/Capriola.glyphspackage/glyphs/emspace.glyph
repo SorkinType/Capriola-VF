@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = emspace;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 2048;
+},
+{
+layerId = m001;
+width = 2048;
+},
+{
+layerId = m002;
+width = 2048;
+}
+);
+metricWidth = "=2048";
+unicode = 8195;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

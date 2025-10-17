@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = etilde;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (198,0);
+ref = tildecomb;
+}
+);
+width = 1198;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (218,0);
+ref = tildecomb;
+}
+);
+width = 1139;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (228,0);
+ref = tildecomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 7869;
+}

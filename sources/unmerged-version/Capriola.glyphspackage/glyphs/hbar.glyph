@@ -1,0 +1,206 @@
+{
+color = 3;
+glyphname = hbar;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(812,1368,ls),
+(846,1368,o),
+(876,1392,o),
+(876,1425,cs),
+(876,1537,ls),
+(876,1571,o),
+(846,1595,o),
+(812,1595,cs),
+(125,1595,ls),
+(92,1595,o),
+(62,1571,o),
+(62,1538,cs),
+(62,1426,ls),
+(62,1392,o),
+(92,1368,o),
+(125,1368,cs)
+);
+}
+);
+};
+guides = (
+{
+pos = (1305,1452);
+showMeasurement = 1;
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+closed = 1;
+nodes = (
+(857,1308,l),
+(857,1576,l),
+(8,1576,l),
+(8,1308,l)
+);
+},
+{
+alignment = -1;
+pos = (38,0);
+ref = h;
+}
+);
+width = 1466;
+},
+{
+guides = (
+{
+pos = (996,1478);
+showMeasurement = 1;
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(763,1398,l),
+(763,1544,l),
+(19,1544,l),
+(19,1398,l)
+);
+},
+{
+ref = h;
+}
+);
+width = 1307;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(744,1388,ls),
+(768,1388,o),
+(788,1404,o),
+(788,1425,cs),
+(788,1537,ls),
+(788,1559,o),
+(768,1575,o),
+(744,1575,cs),
+(57,1575,ls),
+(34,1575,o),
+(14,1559,o),
+(14,1538,cs),
+(14,1426,ls),
+(14,1404,o),
+(34,1388,o),
+(57,1388,cs)
+);
+}
+);
+};
+guides = (
+{
+pos = (1090,1496);
+showMeasurement = 1;
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(788,1368,l),
+(788,1555,l),
+(14,1555,l),
+(14,1368,l)
+);
+},
+{
+ref = h;
+}
+);
+width = 1367;
+}
+);
+unicode = 295;
+userData = {
+KernOnName = hbar;
+};
+}

@@ -1,0 +1,56 @@
+{
+color = 10;
+glyphname = backslash;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+alignment = -1;
+pos = (924,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 933;
+},
+{
+background = {
+shapes = (
+{
+pos = (844,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+pos = (784,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 793;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (844,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 853;
+}
+);
+unicode = 92;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

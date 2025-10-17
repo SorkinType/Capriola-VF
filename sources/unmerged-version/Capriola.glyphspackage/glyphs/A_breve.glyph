@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = Abreve;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (381,0);
+ref = brevecomb.case;
+}
+);
+width = 1547;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (399,0);
+ref = brevecomb.case;
+}
+);
+width = 1477;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (425,0);
+ref = brevecomb.case;
+}
+);
+width = 1536;
+}
+);
+unicode = 258;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
+}

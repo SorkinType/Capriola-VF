@@ -1,0 +1,53 @@
+{
+color = 10;
+glyphname = caron;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 892;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (425,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 864;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (425,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 864;
+}
+);
+metricRight = "=|";
+unicode = 711;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

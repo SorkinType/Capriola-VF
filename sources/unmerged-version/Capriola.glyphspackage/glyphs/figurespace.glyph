@@ -1,0 +1,20 @@
+{
+color = 6;
+glyphname = figurespace;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 1364;
+},
+{
+layerId = m001;
+width = 1328;
+},
+{
+layerId = m002;
+width = 1363;
+}
+);
+metricWidth = "=zero";
+unicode = 8199;
+}

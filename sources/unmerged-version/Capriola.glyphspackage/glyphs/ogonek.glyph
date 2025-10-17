@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = ogonek;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 745;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 683;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 683;
+}
+);
+unicode = 731;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

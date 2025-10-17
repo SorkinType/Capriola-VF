@@ -1,0 +1,44 @@
+{
+color = 10;
+glyphname = Dcroat;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1537;
+},
+{
+guides = (
+{
+pos = (0,647);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1461;
+},
+{
+guides = (
+{
+pos = (0,647);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1518;
+}
+);
+unicode = 272;
+}

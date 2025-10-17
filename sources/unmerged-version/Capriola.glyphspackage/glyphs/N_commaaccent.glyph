@@ -1,0 +1,84 @@
+{
+color = 10;
+glyphname = Ncommaaccent;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (234,0);
+ref = N;
+},
+{
+alignment = -1;
+pos = (852,0);
+ref = commaaccent;
+}
+);
+};
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (544,0);
+ref = commaaccentcomb.comb.case;
+}
+);
+width = 1695;
+},
+{
+background = {
+shapes = (
+{
+ref = N;
+},
+{
+pos = (559,0);
+ref = commaaccent;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (528,0);
+ref = commaaccentcomb.comb.case;
+}
+);
+width = 1584;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (618,0);
+ref = commaaccent;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (573,0);
+ref = commaaccentcomb.comb.case;
+}
+);
+width = 1674;
+}
+);
+unicode = 325;
+}

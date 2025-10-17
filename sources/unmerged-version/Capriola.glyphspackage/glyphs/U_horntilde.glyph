@@ -1,0 +1,49 @@
+{
+color = 10;
+glyphname = Uhorntilde;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+anchor = top2;
+pos = (143,0);
+ref = tildecomb.case;
+}
+);
+width = 1583;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+anchor = top2;
+pos = (182,0);
+ref = tildecomb.case;
+}
+);
+width = 1501;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+anchor = top2;
+pos = (188,0);
+ref = tildecomb.case;
+}
+);
+width = 1575;
+}
+);
+unicode = 7918;
+}

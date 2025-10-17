@@ -1,0 +1,49 @@
+{
+color = 10;
+glyphname = itilde;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-130,0);
+ref = tildecomb;
+}
+);
+width = 692;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-130,0);
+ref = tildecomb;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-103,0);
+ref = tildecomb;
+}
+);
+width = 683;
+}
+);
+unicode = 297;
+userData = {
+KernOnName = itilde;
+};
+}

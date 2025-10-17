@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = sacute;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (295,0);
+ref = acutecomb;
+}
+);
+width = 1031;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (306,0);
+ref = acutecomb;
+}
+);
+width = 964;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 1024;
+}
+);
+unicode = 347;
+}

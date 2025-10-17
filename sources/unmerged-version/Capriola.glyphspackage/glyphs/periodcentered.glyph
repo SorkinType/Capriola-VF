@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = periodcentered;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+alignment = -1;
+pos = (-1,446);
+ref = period;
+}
+);
+width = 553;
+},
+{
+background = {
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+width = 453;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-1,446);
+ref = period;
+}
+);
+width = 513;
+}
+);
+unicode = 183;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

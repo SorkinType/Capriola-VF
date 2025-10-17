@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = Nacute;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (659,0);
+ref = acutecomb.case;
+}
+);
+width = 1695;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (655,0);
+ref = acutecomb.case;
+}
+);
+width = 1584;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (658,0);
+ref = acutecomb.case;
+}
+);
+width = 1674;
+}
+);
+unicode = 323;
+}

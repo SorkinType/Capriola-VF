@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = thinspace;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 256;
+},
+{
+layerId = m001;
+width = 256;
+},
+{
+layerId = m002;
+width = 256;
+}
+);
+metricWidth = "=256";
+unicode = 8201;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

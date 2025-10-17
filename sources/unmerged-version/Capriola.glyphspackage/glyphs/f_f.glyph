@@ -1,0 +1,93 @@
+{
+color = 10;
+glyphname = f_f;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (873,0);
+}
+);
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (907,0);
+ref = f;
+}
+);
+width = 1746;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (791,0);
+}
+);
+guides = (
+{
+pos = (0,1225);
+},
+{
+pos = (0,964);
+},
+{
+pos = (0,920);
+},
+{
+pos = (0,1800);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (791,0);
+ref = f;
+}
+);
+width = 1582;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (860,0);
+}
+);
+guides = (
+{
+pos = (0,1225);
+},
+{
+pos = (0,964);
+},
+{
+pos = (0,920);
+},
+{
+pos = (0,1800);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (869,0);
+ref = f;
+}
+);
+width = 1720;
+}
+);
+metricLeft = f;
+metricRight = f;
+}

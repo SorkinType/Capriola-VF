@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = imacron;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-71,-7);
+ref = macroncomb;
+}
+);
+width = 692;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-69,0);
+ref = macroncomb;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-39,0);
+ref = macroncomb;
+}
+);
+width = 683;
+}
+);
+unicode = 299;
+}

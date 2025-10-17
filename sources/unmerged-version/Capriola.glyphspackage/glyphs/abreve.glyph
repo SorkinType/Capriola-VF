@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = abreve;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (220,0);
+ref = brevecomb;
+}
+);
+width = 1199;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (228,0);
+ref = brevecomb;
+}
+);
+width = 1135;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (258,0);
+ref = brevecomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 259;
+}

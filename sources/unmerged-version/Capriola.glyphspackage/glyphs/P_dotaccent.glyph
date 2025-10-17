@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = Pdotaccent;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = P;
+},
+{
+pos = (384,-4);
+ref = dotaccentcomb.case;
+}
+);
+width = 1373;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (384,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1287;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (408,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1354;
+}
+);
+unicode = 7766;
+}

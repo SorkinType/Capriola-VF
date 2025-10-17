@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = Aacute;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (571,0);
+ref = acutecomb.case;
+}
+);
+width = 1547;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (602,0);
+ref = acutecomb.case;
+}
+);
+width = 1477;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (589,0);
+ref = acutecomb.case;
+}
+);
+width = 1536;
+}
+);
+unicode = 193;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
+}

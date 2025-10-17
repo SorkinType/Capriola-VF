@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = wgrave;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (495,0);
+ref = gravecomb;
+}
+);
+width = 1818;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (543,0);
+ref = gravecomb;
+}
+);
+width = 1749;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (548,0);
+ref = gravecomb;
+}
+);
+width = 1809;
+}
+);
+unicode = 7809;
+userData = {
+KernOnSpecialSpacing = {
+L = diagonal;
+R = diagonal;
+};
+};
+}

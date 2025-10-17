@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = Ccaron;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (384,0);
+ref = caroncomb.case;
+}
+);
+width = 1378;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (382,0);
+ref = caroncomb.case;
+}
+);
+width = 1331;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (380,0);
+ref = caroncomb.case;
+}
+);
+width = 1362;
+}
+);
+unicode = 268;
+}

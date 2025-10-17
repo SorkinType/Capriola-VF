@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = Igrave;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-42,0);
+ref = gravecomb.case;
+}
+);
+width = 709;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-27,0);
+ref = gravecomb.case;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-23,0);
+ref = gravecomb.case;
+}
+);
+width = 683;
+}
+);
+unicode = 204;
+}

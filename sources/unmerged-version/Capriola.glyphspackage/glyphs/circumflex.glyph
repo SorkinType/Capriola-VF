@@ -1,0 +1,71 @@
+{
+color = 10;
+glyphname = circumflex;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 882;
+},
+{
+guides = (
+{
+pos = (0,1389);
+},
+{
+pos = (0,1282);
+},
+{
+pos = (0,1702);
+},
+{
+angle = 90;
+pos = (428,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 857;
+},
+{
+guides = (
+{
+pos = (0,1389);
+},
+{
+pos = (0,1282);
+},
+{
+pos = (0,1702);
+},
+{
+angle = 90;
+pos = (428,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 855;
+}
+);
+metricRight = "=|";
+unicode = 710;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

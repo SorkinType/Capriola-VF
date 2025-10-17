@@ -1,0 +1,58 @@
+{
+color = 10;
+glyphname = Ntilde;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (271,0);
+ref = tildecomb.case;
+}
+);
+width = 1695;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (489,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (274,0);
+ref = tildecomb.case;
+}
+);
+width = 1584;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (489,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (280,0);
+ref = tildecomb.case;
+}
+);
+width = 1674;
+}
+);
+unicode = 209;
+}

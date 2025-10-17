@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = greaterequal;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+alignment = -1;
+pos = (1403,0);
+ref = lessequal;
+scale = (-1,1);
+}
+);
+width = 1403;
+},
+{
+layerId = m001;
+shapes = (
+{
+pos = (1303,0);
+ref = lessequal;
+scale = (-1,1);
+}
+);
+width = 1303;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (1363,0);
+ref = lessequal;
+scale = (-1,1);
+}
+);
+width = 1363;
+}
+);
+unicode = 8805;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

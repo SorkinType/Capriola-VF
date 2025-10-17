@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = "mediumspace-math";
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 455;
+},
+{
+layerId = m001;
+width = 455;
+},
+{
+layerId = m002;
+width = 455;
+}
+);
+metricWidth = "=455";
+unicode = 8287;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

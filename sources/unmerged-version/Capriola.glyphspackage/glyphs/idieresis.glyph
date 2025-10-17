@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = idieresis;
+layers = (
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-238,0);
+ref = dieresiscomb;
+}
+);
+width = 692;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-248,0);
+ref = dieresiscomb;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-218,0);
+ref = dieresiscomb;
+}
+);
+width = 683;
+}
+);
+unicode = 239;
+}
