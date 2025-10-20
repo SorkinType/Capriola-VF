@@ -82,7 +82,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (595,-40);
+pos = (605,-70);
 ref = _viet.acutecomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (517,-58);
+pos = (527,-68);
 ref = _viet.acutecomb;
 }
 );
@@ -266,7 +266,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (565,-52);
+pos = (595,-72);
 ref = _viet.acutecomb;
 }
 );

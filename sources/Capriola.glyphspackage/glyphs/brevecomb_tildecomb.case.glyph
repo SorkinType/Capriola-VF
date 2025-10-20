@@ -192,7 +192,7 @@ shapes = (
 ref = _viet.brevecomb.case;
 },
 {
-pos = (-85,382);
+pos = (-85,362);
 ref = _viet.tildecomb.case;
 }
 );
@@ -290,7 +290,7 @@ shapes = (
 ref = _viet.brevecomb.case;
 },
 {
-pos = (-83,356);
+pos = (-83,312);
 ref = _viet.tildecomb.case;
 }
 );

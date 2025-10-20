@@ -9,7 +9,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (9,346);
+pos = (9,326);
 ref = _viet.tildecomb.case;
 }
 );
@@ -109,7 +109,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (6,356);
+pos = (6,326);
 ref = _viet.tildecomb.case;
 }
 );
@@ -209,7 +209,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (0,336);
+pos = (0,296);
 ref = _viet.tildecomb.case;
 }
 );

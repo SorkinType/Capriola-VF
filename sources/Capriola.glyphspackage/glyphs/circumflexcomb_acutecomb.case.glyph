@@ -76,7 +76,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (528,0);
+pos = (558,-30);
 ref = _viet.acutecomb.case;
 }
 );
@@ -168,7 +168,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (536,29);
+pos = (536,9);
 ref = _viet.acutecomb.case;
 }
 );
@@ -260,7 +260,7 @@ shapes = (
 ref = _viet.circumflexcomb.case;
 },
 {
-pos = (616,27);
+pos = (616,7);
 ref = _viet.acutecomb.case;
 }
 );

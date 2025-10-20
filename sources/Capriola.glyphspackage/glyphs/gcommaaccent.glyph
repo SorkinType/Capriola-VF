@@ -9,7 +9,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (188,0);
+pos = (198,20);
 ref = commaturnedabovecomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (236,0);
+pos = (256,20);
 ref = commaturnedabovecomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (248,0);
+pos = (278,30);
 ref = commaturnedabovecomb;
 }
 );

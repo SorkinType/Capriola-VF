@@ -1,5 +1,5 @@
 {
-.appVersion = "3428";
+.appVersion = "3434";
 .formatVersion = 3;
 axes = (
 {
@@ -62,7 +62,7 @@ tag = slng;
 );
 }
 );
-date = "2025-10-14 03:55:32 +0000";
+date = "2025-10-20 04:44:34 +0000";
 familyName = Capriola;
 featurePrefixes = (
 {
@@ -282,7 +282,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = typoDescender;
@@ -294,7 +294,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = hheaDescender;
@@ -682,7 +682,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = typoDescender;
@@ -694,7 +694,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = hheaDescender;
@@ -1075,7 +1075,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = typoDescender;
@@ -1087,7 +1087,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1992;
+value = 2030;
 },
 {
 name = hheaDescender;

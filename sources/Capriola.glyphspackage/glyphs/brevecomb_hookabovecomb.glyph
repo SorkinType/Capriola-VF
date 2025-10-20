@@ -97,7 +97,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (53,91);
+pos = (54,21);
 ref = _viet.hookabovecomb;
 }
 );
@@ -198,7 +198,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (78,33);
+pos = (83,-67);
 ref = _viet.hookabovecomb;
 }
 );
@@ -299,7 +299,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (75,65);
+pos = (55,-25);
 ref = _viet.hookabovecomb;
 }
 );

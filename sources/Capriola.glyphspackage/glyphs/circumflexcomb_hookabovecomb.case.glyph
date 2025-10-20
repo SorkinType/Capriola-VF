@@ -94,7 +94,7 @@ ref = _viet.circumflexcomb.case;
 },
 {
 anchor = floor1;
-pos = (449,240);
+pos = (529,198);
 ref = _viet.hookabovecomb.case;
 }
 );
@@ -192,7 +192,7 @@ ref = _viet.circumflexcomb.case;
 },
 {
 anchor = floor1;
-pos = (452,270);
+pos = (462,250);
 ref = _viet.hookabovecomb.case;
 }
 );
@@ -290,7 +290,7 @@ ref = _viet.circumflexcomb.case;
 },
 {
 anchor = floor1;
-pos = (511,267);
+pos = (531,257);
 ref = _viet.hookabovecomb.case;
 }
 );

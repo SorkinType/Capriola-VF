@@ -94,7 +94,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (441,-40);
+pos = (451,-70);
 ref = _viet.gravecomb;
 }
 );
@@ -192,7 +192,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (424,-58);
+pos = (434,-68);
 ref = _viet.gravecomb;
 }
 );
@@ -278,7 +278,7 @@ shapes = (
 ref = _viet.circumflexcomb;
 },
 {
-pos = (417,-52);
+pos = (447,-72);
 ref = _viet.gravecomb;
 }
 );

@@ -45,7 +45,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (183,91);
+pos = (193,21);
 ref = _viet.acutecomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (153,33);
+pos = (163,-67);
 ref = _viet.acutecomb;
 }
 );
@@ -133,7 +133,7 @@ shapes = (
 ref = _viet.brevecomb;
 },
 {
-pos = (179,65);
+pos = (189,-25);
 ref = _viet.acutecomb;
 }
 );

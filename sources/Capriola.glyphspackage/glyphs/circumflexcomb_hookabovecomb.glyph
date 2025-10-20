@@ -58,7 +58,7 @@ ref = _viet.circumflexcomb;
 },
 {
 anchor = floor2;
-pos = (465,-40);
+pos = (466,-70);
 ref = _viet.hookabovecomb;
 }
 );
@@ -120,7 +120,7 @@ ref = _viet.circumflexcomb;
 },
 {
 anchor = floor2;
-pos = (442,-58);
+pos = (447,-68);
 ref = _viet.hookabovecomb;
 }
 );
@@ -182,7 +182,7 @@ ref = _viet.circumflexcomb;
 },
 {
 anchor = floor2;
-pos = (461,-52);
+pos = (461,-72);
 ref = _viet.hookabovecomb;
 }
 );
