@@ -1,5 +1,5 @@
 {
-.appVersion = "3434";
+.appVersion = "3428";
 .formatVersion = 3;
 axes = (
 {
@@ -95,6 +95,15 @@ feature ordn;
 feature case;
 ";
 tag = aalt;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
 },
 {
 automatic = 1;
@@ -263,15 +272,6 @@ sub horncomb by horncomb.case;
 sub cedillacomb by cedillacomb.case;
 ";
 tag = case;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f f by f_f;
-sub f i by fi;
-sub f l by fl;
-";
-tag = liga;
 }
 );
 fontMaster = (
