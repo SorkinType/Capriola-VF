@@ -1,0 +1,18 @@
+{
+glyphname = lineseparator;
+layers = (
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m001;
+width = 600;
+},
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+width = 600;
+}
+);
+unicode = 8232;
+}
