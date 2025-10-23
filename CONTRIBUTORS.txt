@@ -8,3 +8,6 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Vika Grabowska <vika.grabowska@gmail.com >
+Eben Sorkin < sorkineben@gmail.com >
