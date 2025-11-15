@@ -1,0 +1,45 @@
+{
+glyphname = Kacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (533,0);
+ref = acutecomb.case;
+}
+);
+width = 1353;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (505,0);
+ref = acutecomb.case;
+}
+);
+width = 1371;
+},
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (524,0);
+ref = acutecomb.case;
+}
+);
+width = 1570;
+}
+);
+unicode = 7728;
+}

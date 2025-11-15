@@ -1,0 +1,45 @@
+{
+glyphname = Ocaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (378,0);
+ref = caroncomb.case;
+}
+);
+width = 1615;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (425,0);
+ref = caroncomb.case;
+}
+);
+width = 1709;
+},
+{
+layerId = "997F8AB0-1B91-48A1-A6B5-F95345F1D981";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (423,0);
+ref = caroncomb.case;
+}
+);
+width = 1735;
+}
+);
+unicode = 465;
+}
